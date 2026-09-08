@@ -1,0 +1,48 @@
+/* Style the landing page heading and header. */
+header {
+    background-color: #14213d;
+    color: #ffffff;
+    padding: 24px;
+    text-align: center;
+}
+
+header h1 {
+    color: #fca311;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Center the section containing the project and activity links. */
+main {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+main section {
+    max-width: 760px;
+    text-align: center;
+    width: 100%;
+}
+
+main article {
+    border: 2px solid #e5e5e5;
+    margin: 20px auto;
+    max-width: 520px;
+    padding: 20px;
+}
+
+/* Keep the footer at the bottom and give it a distinct color. */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+footer {
+    background-color: #14213d;
+    color: #ffffff;
+    margin-top: auto;
+    padding: 16px;
+    text-align: center;
+}
