@@ -1,0 +1,54 @@
+/* 1. remove bullets and arrange the list items horizontally */
+nav ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+
+/* 2. give each navigation item a visible background and readable text */
+nav li {
+    background-color: #14213d;
+    color: #ffffff;
+
+    /* 3a. add 30 pixels of horizontal space with margin */
+    /* margin: 0 30px; */
+
+    /* 3b. add 30 ems of horizontal space with margin */
+    /* margin: 0 30em; */
+
+    /* 4a. add 30 pixels of horizontal space with padding */
+    /* padding: 0 30px; */
+
+    /* 4b. add 30 ems of horizontal space with padding */
+    /* padding: 0 30em; */
+
+    /* 4c. Final padding */
+    margin: 0 10px;
+    padding: 12px 24px;
+}
+
+/* 5. move the footer paragraph to the right side of the screen */
+footer p {
+    text-align: right;
+}
+
+/* 6. set image to 400 x 400 */
+img {
+    width: 400px;
+    height: 400px;
+}
+
+/* 7. place the span over the image's lower-right corner. */
+div {
+    position: relative;
+    width: 400px;
+}
+
+div span {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #ffffff;
+    background-color: #14213d;
+    padding: 6px 10px;
+}
