@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Andrew Nguyen">
+    <meta name="description" content="Proposal for Project 2: Instrument History Explorer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instrument History Explorer Proposal</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Instrument History Explorer</h1>
+        <p>An application for learning about the history of musical instruments.</p>
+    </header>
+
+    <main>
+        <section id="topic-description">
+            <h2>Topic Description</h2>
+            <p>
+                The topic domain is on the history of musical instruments. Instruments tend to have incredibly varied origins,
+                with some instruments being thousands of years old and others being invented in the last century. 
+                Many often carry some cultural significance, and have some storied history.
+                With an incredibly vast amount of instruments, with different classifications, origins, and histories, 
+                there is a truly large amount of information to explore. 
+            </p>
+            <p>
+                What drove me to choose this topic is my personal interest in music and musical instruments. 
+                In middle school and highschool, I played a variety of percussion instruments, including the Glockenspiel, 
+                Marimba, Vibraphone, Timpani, Bass Drum, Snare Drum, and more. I found it endlessly fascinating to 
+                learn about the history of these instruments, and how different cultures and regions of the world have
+                developed their own unique, yet strikingly similar instruments. 
+                This also comes a little personally, as I felt like I would always have to explain to people what a 
+                Marimba or Vibraphone was, and I wanted to be able to provide a resource for people to learn about these 
+                instruments and their history.
+            </p>
+            <p>
+                There isn't necessarily a single "one-stop" resource for learning about the history of musical instruments. 
+                The closest thing to that are resources like Wikipedia, Encyclopedia Britannica, 
+                and other similar resources. However, these resources are not necessarily focused on musical instruments, and they are not 
+                necessarily organized in a way that supports it.
+            </p>
+
+        </section>
+
+        <section id="app-description">
+            <h2>Application Description</h2>
+
+            <p>
+                Instrument History Explorer is a proposed educational web application
+                designed to help users learn about the history and development of musical
+                instruments. The application will organize instruments into four families:
+                percussion, woodwinds, brass, and strings. Users will explore the topic
+                through a sequence of selections, ultimately leading to detailed information 
+                about a specific instrument.
+            </p>
+
+            <h3>Home Page</h3>
+            <p>
+                The first page will be the landing page. It will introduce the purpose of
+                the application and explain how learning about instruments can provide
+                insight into music, culture, and history. The page will include a welcome
+                message, a short explanation of the four instrument families, a featured
+                instrument image, and navigation to the other application pages.
+            </p>
+
+            <h3>Instrument Explorer Page</h3>
+            <p>
+                The second page will contain the main interactive feature. It will use two
+                steps that occur in sequence. First, the user will select one of four
+                instrument families. After that selection, the application will display
+                four instruments belonging to the selected family. The user will then
+                select one of those instruments to view its information.
+            </p>
+
+            <ol>
+                <li>
+                    <strong>Step 1:</strong> Select one instrument family:
+                    percussion, woodwinds, brass, or strings.
+                </li>
+                <li>
+                    <strong>Step 2:</strong> Select one instrument from the four choices
+                    displayed for the selected family.
+                </li>
+                <li>
+                    <strong>Result:</strong> The application will display information based on both selections.
+                </li>
+            </ol>
+
+            <p>
+                The second step depends on the first step. For example, selecting
+                “Brass” will display only trumpet, trombone, tuba, and euphonium. The user
+                will not see the woodwind or string instruments unless they return to the
+                first step and select a different family. In the future, JavaScript will
+                respond to each selection and change the information displayed on the page.
+            </p>
+
+            <h4>Instrument Selection Data</h4>
+            <ul>
+                <li>
+                    <strong>Percussion:</strong> Snare Drum, Bongos, Marimba, Piano
+                </li>
+                <li>
+                    <strong>Woodwinds:</strong> Flute, Saxophone, Bassoon, Clarinet
+                </li>
+                <li>
+                    <strong>Brass:</strong> Tuba, Trumpet, Trombone, Euphonium
+                </li>
+                <li>
+                    <strong>Strings:</strong> Violin, Harp, Shamisen, Guitar
+                </li>
+            </ul>
+
+            <p>
+                This creates four first-step choices and four second-step choices for each
+                family, resulting in 16 possible instrument selections.
+            </p>
+
+            <h4>Final Information for Each Instrument</h4>
+            <p>
+                Every one of the 16 instruments will use the same type of final
+                information. After the user makes both selections, the application will
+                display the instrument's name, family, geographic or cultural origins,
+                historical timeline, description of how it produces sound, and its role in
+                music. Each instrument will also include two images, three historical facts, 
+                and links to reliable sources.
+            </p>
+
+            <h3>Music History Page</h3>
+            <p>
+                The third page will provide additional information for users to read
+                unrelated to the rest of the application. It will discuss how instruments are
+                classified, how musical instruments have changed over time, the
+                relationship between instruments and different cultures, basic music
+                theory, and the development of musical genres. This page will provide
+                broader background information rather than repeating the individual
+                instrument information from the explorer page.
+            </p>
+
+            <h3>Contact Us Page</h3>
+            <p>
+                The fourth page will be a Contact Us page. It will contain a form
+                for collecting the user's name, email address, subject, and message.
+                Users may use the form to suggest an instrument, ask a question, or report
+                incorrect information.
+            </p>
+        </section>
+
+
+
+        <section id="resources">
+            <h2>Resources and Image Permissions</h2>
+            <p>
+                Research will use reliable music history resources, including the
+                following:
+            </p>
+            <ul>
+                <li>
+                    <a href="https://music.si.edu/"
+                       target="_blank" rel="noopener">
+                        Smithsonian Music
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.loc.gov/notated-music/collections/"
+                       target="_blank" rel="noopener">
+                        Library of Congress: Notated Music 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://commons.wikimedia.org/"
+                       target="_blank" rel="noopener">
+                        Wikimedia Commons
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.britannica.com/art/musical-instrument"
+                       target="_blank" rel="noopener">
+                        Encyclopedia Britannica: Musical Instruments
+                    </a>
+                </li>
+            </ul>
+            <p>
+                Images will be obtained from public-domain or Creative Commons
+                sources. Each image will include attribution and a link to its
+                license when required.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>2026 Andrew Nguyen</p>
+    </footer>
+</body>
+</html>
