@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Andrew Nguyen">
+    <meta name="description" content="Contact the Instrument History Explorer team to suggest an instrument, propose historical sources, or submit feedback.">
+    <meta name="keywords" content="contact, instrument history explorer, feedback, suggest instrument">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Contact Us | Instrument History Explorer</title>
+  </head>
+  <body id="top">
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html">Instrument History Explorer</a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="index.html">Home</a>
+          <a href="explorer.html">Explore</a>
+          <a href="concepts.html">Music Concepts</a>
+          <a href="contact.html" aria-current="page">Contact</a>
+          <a href="#login" class="nav-login" aria-label="User account and log in">Log In</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <div class="page-shell">
+        <p class="breadcrumb"><a href="index.html">Home</a> / Contact</p>
+        <h1>Contact Us</h1>
+        <p class="flavor-text">
+          Have an instrument we should feature in the interactive explorer, an archival audio source 
+          to recommend, or a historical correction to share? Send our editorial team a message below 
+          and we will follow up with you.
+        </p>
+
+        <form action="#submitted" method="post" aria-label="Contact submission form">
+          <fieldset>
+            <legend>Send Us a Message</legend>
+
+            <label for="senderName">Your Name</label>
+            <input id="senderName" name="name" type="text" required autocomplete="name" placeholder="e.g. Jane Doe">
+
+            <label for="senderEmail">Email Address</label>
+            <input
+              id="senderEmail"
+              name="email"
+              type="email"
+              required
+              autocomplete="email"
+              placeholder="e.g. jane@example.com"
+            >
+
+            <label for="messageTopic">Inquiry Topic</label>
+            <select id="messageTopic" name="topic">
+              <option value="suggest">Suggest an instrument or acoustic profile</option>
+              <option value="question">Ask an organological or music history question</option>
+              <option value="correction">Report an archival or factual correction</option>
+              <option value="general">General feedback / Other</option>
+            </select>
+
+            <label for="messageBody">Message</label>
+            <textarea id="messageBody" name="message" required placeholder="Write your message or suggestion here..."></textarea>
+
+            <button class="button" type="submit">Submit Message</button>
+          </fieldset>
+        </form>
+      </div>
+    </main>
+
+    <p class="return-top"><a href="#top">Return to top</a></p>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>
+          <strong>Instrument History Explorer</strong> · Andrew Nguyen · 2026
+        </p>
+        <p>
+          Images: 
+          <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a>. 
+          Data sources:
+          <a href="https://music.si.edu/" target="_blank" rel="noopener noreferrer">Smithsonian Music</a>
+          and
+          <a href="https://www.britannica.com/art/musical-instrument" target="_blank" rel="noopener noreferrer">Encyclopaedia Britannica</a>.
+        </p>
+      </div>
+    </footer>
+    
+  </body>
+</html>
+

@@ -1,0 +1,790 @@
+{
+  "appName": "Instrument History Explorer",
+  "tagline": "Discover how sound, environment, migration, and culture shaped musical instruments.",
+  "families": [
+    {
+      "id": "percussion",
+      "name": "Percussion",
+      "shortDescription": "Family of instruments that produce sound through striking, shaking, or scraping.",
+      "overview": "Percussion instruments create sound when a player strikes, shakes, scrapes, or otherwise sets a material in motion.",
+      "instruments": [
+        {
+          "id": "snare-drum",
+          "name": "Snare drum",
+          "familyId": "percussion",
+          "familyName": "Percussion",
+          "summary": "A crisp marching and orchestral drum with tensioned wires beneath its head.",
+          "intro": [
+            "The snare drum is a shallow, two-headed drum known for its sharp attack and buzzing response. It's present in orchestras, marching bands, drum sets, military music, and many other musical contexts."
+          ],
+          "soundMechanism": [
+            "A shell supports a batter head on top and a resonant head below. A set of metal wires, called snares, rests against the underside of the bottom head. When the top head vibrates, the snare wires respond with a dry, textured buzz. Somewhere on the shell, is a switch called a throw-off that can lift the snares away from the head when a player wants a more \"open\" drum sound.",
+            "The shell may be made from wood, metal, or a composite material. Hoops and tension rods control the tightness of the heads, while the size and depth of the shell affect the drum's response. A deep shell produces a deeper, more resonant sound, while a shallow shell gives a crisp, cutting sound.",
+            "Players can strike the head with sticks, brushes, or mallets. The head's tension and the snares' tension can be adjusted to change the drum's response.",
+            "Sound can also be shaped by the player's technique, including where and how the head is struck, the angle of attack, and the use of rolls or accents. Rimshots, where the stick strikes both the head and the rim simultaneously, produce a louder, sharper noise, while cross-sticking, where the stick rests on the head and strikes the rim, creates a softer, more muted sound.",
+            "Key to the performance of the snare drum are rudiments, which are standard patterns of strokes that form the basis of snare drum technique. These include rolls, flams, drags, and paradiddles, among others. Mastery of these rudiments allows drummers to execute complex rhythms and textures with precision and musicality."
+          ],
+          "history": [
+            "Before the snare drum, snares originated in ancient Egypt, which is assumed to have been placed on instruments like the tambourine. The snare drum as we know it today developed from European tabor drums used in military and civic music. Originaly, snares were placed on the upper head of the tabor drum, or sometimes on both heads. Larger versions of the tabor drum became the foundation for the snare drum, when two sticks began to be used, with snares being placed on the bottom head.",
+            "At this point, they tended to be suspended with a strap or rope, placed on the players left side (due to the rifle being on the right side), and spread across Europe. This left-sided placement is still common, and is the reason for the \"traditional\" grip, where the left hand holds the stick differently than the right hand.",
+            "Drummers used repeating patterns to support marching and to communicate signals. Over time, the instrument moved into concert bands and orchestras, where composers used it for a trademark military noise, suspense, dance rhythms, and precise articulation.",
+            "In the twentieth century, the snare became one of the central voices of the drum set. Jazz, rock, funk, marching percussion, film scoring, and studio production each developed different approaches to its tuning and touch.",
+            "Materials used to make snare drums have changed over time. Early snares were made from gut, horsehair, or metal wire. In the 19th century, drums became shallow, with a brass shell and rods. The throw-off mechanism was developed in the 20th century, allowing players to lift the snares away from the head."
+          ],
+          "image": {
+            "src": "img/snare.jpg",
+            "alt": "Drum kit with a snare drum in the foreground",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@matthijssm\" target=\"_blank\" rel=\"noopener\">Matthijs Smith</a></cite> on <a href=\"https://unsplash.com/photos/pair-of-brown-wooden-drumsticks-on-top-of-white-and-gray-musical-drum-bRG2C0FAQEY\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Buzz",
+              "description": "The snares create the dry rattle that separates this drum from a tom or bass drum."
+            },
+            {
+              "title": "Accent",
+              "description": "A rimshot produces a louder, sharper noise by striking the head and rim together."
+            },
+            {
+              "title": "Roll",
+              "description": "Alternating strokes create a sustained texture instead of a single isolated hit."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/snare-drum",
+            "title": "Encyclopaedia Britannica's snare drum page."
+          }
+        },
+        {
+          "id": "bongos",
+          "name": "Bongos",
+          "familyId": "percussion",
+          "familyName": "Percussion",
+          "summary": "A paired hand drum with deep roots in Cuban music.",
+          "intro": [
+            "Bongos are a matched pair of small open-bottomed hand drums. The smaller drum is called the macho and the larger drum is called the hembra. Played together, they create a high and low voice known for its lively, conversational sound."
+          ],
+          "soundMechanism": [
+            "The two heads are respectively tuned to different pitches, with one drum typically around 5 inches, and the other drum about 7 inches in diameter. The heads are nailed or rod-tensioned to a wooden shell.",
+            "A player usually holds the bongos between the knees while seated, although stands are common in contemporary performance. The fingers and palms produce open tones, muted tones, slaps, and touches near the rim. The two heads are tuned in relation to one another, so the pair complement each other rather than sounding like two unrelated drums.",
+            "Bongo technique depends on relaxed hands and clear contrast between strokes. A muted stroke keeps the head close to the fingers, while an open stroke lets the head ring. The player can also strike the shell or rim for additional variations."
+          ],
+          "history": [
+            "Bongos developed in eastern Cuba during the nineteenth century, specifically for Latin American dance music. They are closely associated with son cubano, a Cuban style that combines Spanish guitar-family instruments, African-derived percussion, and vocal traditions. Their history reflects African and European musical influences meeting in Cuban communities. In a son ensemble, the bongos interact with voices, guitar-family instruments, bass, and larger percussion instruments.",
+            "The instrument's name seems to have derived from the Bantu word \"ngoma,\" which means drum. Through evolution and similarity to another word mbongo, the name became \"bongo\". The instrument seems to have replaced the earlier drum called the boku, which was typically used in pairs and slung over the knee. The bongo's smaller size and higher pitch made it more suitable for the fast, syncopated rhythms of son music. However, other drums in the region can be attributed to the bongo's development (which are called the tahona).",
+            "Recordings and touring ensembles carried the bongo sound beyond Cuba. Players in jazz, salsa, popular music, and educational ensembles adapted its patterns while continuing to draw on the instrument's Cuban rhythmic identity. The 1920's were an interesting time for the bongo, as they were first played in the United States at this time, but were also banned in 1929 alongside other drums in Cuba. The bongo would spread over the course of time, especially in the 20th century, where it became a taple of Latin American music, like bachata, salsa, and merengue.",
+            "Here, Latin bands in the United States spread the bongo's sound across the country. New York City became a hub for Latin music, and the bongo was a key part of the sound. The instrument's portability and expressive range made it popular in both professional and amateur ensembles.",
+            "Traditional bongos use wooden shells and natural animal-skin heads. Modern instruments may use synthetic heads and hardware that makes tuning more stable. The shells are joined by a small bridge or connecting block, and the open bottoms allow the drum bodies to project directly toward the listener."
+          ],
+          "image": {
+            "src": "img/bongos.jpg",
+            "alt": "Fleet Bongos on a carpet floor with drumsticks in the background",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@nbrgqsjgjk\" target=\"_blank\" rel=\"noopener\">Amir Yalon</a></cite> on <a href=\"https://unsplash.com/photos/brown-and-white-drum-set-hQBIFwLpoik\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Macho",
+              "description": "The smaller, higher-pitched drum in the pair."
+            },
+            {
+              "title": "Hembra",
+              "description": "The larger, lower-pitched drum in the pair."
+            },
+            {
+              "title": "Martillo",
+              "description": "A commonly taught bongo pattern whose name means hammer in Spanish."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/bongo-drum",
+            "title": "Encyclopaedia Britannica's bongo drum entry"
+          }
+        },
+        {
+          "id": "marimba",
+          "name": "Marimba",
+          "familyId": "percussion",
+          "familyName": "Percussion",
+          "summary": "Wooden bars and resonators give this instrument its warm, hum-like sound.",
+          "intro": [
+            "The marimba is a variety of xylophone, and is one of the many African-derived percussion instruments that developed in the Americas. It is a pitched percussion instrument with wooden bars arranged like a piano keyboard, with resonators below each bar. The instrument is known for its warm, rich tone and is used in a variety of musical genres, from traditional folk music to contemporary classical compositions."
+          ],
+          "soundMechanism": [
+            "Players strike the bars with mallets wrapped in yarn, cord, or rubber. Harder mallets produce a strong, clear sound, while softer mallets emphasize the marimba's warm and rounded tone. The bars are suspended so they can vibrate freely, and the resonators beneath them amplify the fundamental pitch and its overtones.",
+            "The marimba's bars are arranged in two rows, with the natural notes on the lower row and the accidentals on the upper row. Players can use two, four, or more mallets to play chords and complex passages.",
+            "Some techniques involve rolling the mallets across the bars to create a sustained sound, while others use rapid alternation to produce fast passages. Strokes can be \"muted\" by pressing on the bar after striking it, or \"open\" by allowing the bar to vibrate freely. The combination of mallet choice, striking technique, and bar spacing gives the marimba its distinctive voice.",
+            "The marimba can often be played by multiple performers, especially with larger, concert-sized instruments. In these cases, players may divide the keyboard range among themselves, allowing for complex arrangements and harmonies."
+          ],
+          "history": [
+            "The marimba has roots in African musical traditions, where similar instruments were made from wooden bars and gourds. It was brought to the Americas by enslaved Africans, and it evolved in Central America, particularly in Guatemala and Mexico. In these regions, the marimba became an important part of local music and culture, while also being adapted for concert performance. Here, the wooden bars were supported by a frame, or were hung at the player's waist.",
+            "Marimba traditions in Central America reflect the meeting of African, Indigenous, and European musical histories. In Guatemala, the marimba is closely connected with national and regional identity, and ensembles perform both community music and concert performance. The instrument should therefore be understood as more than a large wooden version of a xylophone.",
+            "The modern concert marimba arose in the United States in the early 20th century. Here, it became a tube-resonated instrument that sits at a lower octave than the xylophone.The resonators are graduated in length: longer tubes support lower notes and shorter tubes support higher notes. Some instruments include adjustable resonators to compensate for changes in room temperature and humidity.",
+            "Marimba music can combine melody, harmony, and rhythm. A single player may use two, four, or more mallets, changing grip and rebound to play chords and fast lines. The sound depends as much on the player's touch and spacing as on the instrument's pitch.",
+            "Marimba builders and performers continue to expand the instrument's breadth. Arrangements may feature regional dance styles, classical works, contemporary solo music, and chamber pieces. Its wide dynamic range lets a performer move from a bell-like melody to a dense, resonant chord within one phrase."
+          ],
+          "image": {
+            "src": "img/marimba.jpg",
+            "alt": "A marimba with wooden bars and two mallets resting on the bars",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@laurar1vera\" target=\"_blank\" rel=\"noopener\">Laura Rivera</a></cite> on <a href=\"https://unsplash.com/photos/two-mallets-rest-on-a-vibraphone-Ra-xxnu1nBY\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Bars",
+              "description": "Tuned wooden keys provide the pitched surface that the player strikes."
+            },
+            {
+              "title": "Resonators",
+              "description": "Tubes below the bars reinforce the sound and extend its sustain."
+            },
+            {
+              "title": "Mallets",
+              "description": "Their hardness changes the balance between attack and warmth."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/marimba",
+            "title": "Encyclopaedia Britannica's marimba entry."
+          }
+        },
+        {
+          "id": "piano",
+          "name": "Piano",
+          "familyId": "percussion",
+          "familyName": "Percussion",
+          "summary": "A keyboard instrument that strikes strings with hammers, known for its wide range and expressive possibilities.",
+          "intro": [
+            "The piano is a keyboard instrument that turns a player's finger movement into the vibration of strings. Felt-covered hammers strike the strings, and a soundboard amplifies them. It belongs in the percussion branch of this explorer because its strings are set in motion by hammers rather than directly plucked."
+          ],
+          "soundMechanism": [
+            "Pressing a key activates a carefully balanced action. The key moves a hammer toward one or more strings, then the hammer returns instantly so the string can continue vibrating. A damper normally stops the string when the key is released, allowing for precise articulation.",
+            "A piano combines a keyboard, action, strings, bridges, a frame, and a soundboard. Lower notes use longer and thicker strings, while higher notes use shorter strings. Many notes use two or three strings tuned together to increase volume and richness. The cast iron frame of a modern piano supports the massive tension created by its strings.",
+            "A pianist can alter volume and tone profoundly through touch and attack speed. The pedals provide additional control on most concert pianos. The right pedal lifts all dampers at once, allowing sympathetic resonance and sustain. The una corda (soft) and sostenuto pedals offer further variation by shifting the action or sustaining only specific notes."
+          ],
+          "history": [
+            "Bartolomeo Cristofori developed the early piano in Italy around the beginning of the eighteenth century. Its most important new idea was the ability to respond differently to soft and forceful playing. That dynamic control distinguished it from earlier keyboard instruments, like the harpsichord, whose volume was less directly shaped by the player's touch.",
+            "Over the next century, the instrument underwent significant design changes to accommodate demands for greater volume and a wider range. Improvements in steel strings, iron frames, and double-escapement action design helped the piano project over large orchestras and fill grand concert halls.",
+            "These manufacturing advancements also helped the piano become common in homes, schools, churches, and studios. It became an essential tool for composition and education, capable of expressing both complex harmonies and sweeping melodies simultaneously.",
+            "Composers and performers quickly made it central to classical music, and its influence only grew over time. Today, the piano remains a foundational voice across ragtime, jazz, popular songwriting, film music, and digital music production."
+          ],
+          "image": {
+            "src": "img/piano.jpg",
+            "alt": "Close view of a grand piano keyboard",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@shotsbywolf\" target=\"_blank\" rel=\"noopener\">Geert Pieters</a></cite> on <a href=\"https://unsplash.com/photos/a-close-up-of-a-piano-with-a-person-in-the-background-8QrPJ3Kfie4\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Attack",
+              "description": "The hammer's speed changes the energy and character of the beginning of a note."
+            },
+            {
+              "title": "Resonance",
+              "description": "The soundboard and undamped strings allow neighboring notes to color one another."
+            },
+            {
+              "title": "Pedal",
+              "description": "Sustaining a note changes the space between sounds as much as it changes their length."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/piano",
+            "title": "Encyclopaedia Britannica's piano entry."
+          }
+        }
+      ],
+      "image": {
+        "src": "img/snare.jpg",
+        "alt": "Percussion family instruments featuring snare drum"
+      }
+    },
+    {
+      "id": "woodwinds",
+      "name": "Woodwinds",
+      "shortDescription": "Instruments where sound is created by directing air through a tube, like a reed or a mouthpiece.",
+      "overview": "In woodwinds, a player directs air through a tube. Finger holes, keys, and reeds shape the vibrating air column.",
+      "instruments": [
+        {
+          "id": "flute",
+          "name": "Flute",
+          "familyId": "woodwinds",
+          "familyName": "Woodwinds",
+          "summary": "A side-blown instrument with an ancient history and a clear, agile voice.",
+          "intro": [
+            "The flute is a side-blown woodwind whose clear tone can sound intimate, brilliant, or breathy. Unlike most instruments in its family, the modern concert flute has no reed; instead, the player directs a focused stream of air across an opening in the head joint."
+          ],
+          "soundMechanism": [
+            "The air jet splits at the far edge of the embouchure hole, setting the column of air inside the tube vibrating. Because it lacks a mouthpiece or reed to provide resistance, the player relies entirely on their lip shape, air speed, and breath control to produce and maintain a clear tone.",
+            "Open and closed tone holes change the tube's effective length, which determines the fundamental pitch. On modern concert flutes, an intricate system of keys and pads allows the player to cover and uncover these holes with speed, agility, and precision.",
+            "A player can shift into higher registers by increasing their air speed and subtly adjusting the angle of their embouchure. This technique, called overblowing, forces the air column to vibrate at faster harmonic frequencies without changing the fingering.",
+            "Flutists shape their sound further through articulation and expression. Tonguing provides crisp, rhythmic attacks, while techniques like flutter-tonguing or varied vibrato add distinct vocal-like textures to the instrument's naturally pure tone."
+          ],
+          "history": [
+            "Flute-like instruments are among the oldest in human history. Archaeological discoveries reveal that early flutes were crafted from bone, wood, bamboo, and clay thousands of years ago. These simple, keyless instruments appeared in various forms across nearly every global musical culture.",
+            "In Europe, the transverse (side-blown) wooden flute became increasingly prominent during the Renaissance and Baroque eras. Early orchestral flutes featured only a few keys and relied on complex cross-fingerings to achieve different notes, which often resulted in an uneven tone and volume across different keys.",
+            "The instrument underwent a massive transformation in the mid-nineteenth century thanks to German inventor and musician Theobald Boehm. Boehm redesigned the flute with a larger, cylindrical bore and introduced a logical, mechanical key system. This allowed tone holes to be optimally sized and placed, drastically improving the instrument's volume, intonation, and agility.",
+            "Boehm's design laid the foundation for the modern metal concert flute. Today, the flute frequently carries high, sweeping melodies in orchestras, concert bands, and chamber groups. The family also expanded to include the piercing piccolo, as well as the darker alto and bass flutes.",
+            "Beyond the classical tradition, the modern flute has found a prominent voice in jazz, rock, and film scoring. At the same time, traditional wooden and bamboo flutes continue to thrive globally, maintaining their own unique tunings, techniques, and musical meanings."
+          ],
+          "image": {
+            "src": "img/flute.jpg",
+            "alt": "Flute resting beside sheet music",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@elepao\" target=\"_blank\" rel=\"noopener\">Eleonora Paolino</a></cite> on <a href=\"https://unsplash.com/photos/a-close-up-of-a-music-instrument-LcrN354aCK4\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Embouchure",
+              "description": "The player's lip shape and air angle directly shape the instrument's tone and pitch without a reed."
+            },
+            {
+              "title": "Register",
+              "description": "The instrument's voice transforms from a warm, breathy low end to a brilliant, penetrating upper range."
+            },
+            {
+              "title": "Articulation",
+              "description": "Rapid tonguing techniques provide sharp, precise attacks that contrast with the flute's smooth sustain."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/flute-musical-instrument",
+            "title": "Encyclopaedia Britannica's flute entry"
+          }
+        },
+        {
+          "id": "saxophone",
+          "name": "Saxophone",
+          "familyId": "woodwinds",
+          "familyName": "Woodwinds",
+          "summary": "A single-reed instrument designed to blend the power of brass with woodwind color.",
+          "intro": [
+            "The saxophone is a single-reed woodwind instrument known for its vocal flexibility and a voice that can transition seamlessly from a smoky whisper to a piercing, brassy wail. Although its body is typically crafted from brass, its use of a wooden reed and mouthpiece places it firmly within the woodwind family."
+          ],
+          "soundMechanism": [
+            "Sound is produced when the player blows air through the mouthpiece, causing a single cane reed—held in place by a metal or leather ligature—to vibrate. This vibration sets the air column inside the instrument's conical metal tube into motion, giving the saxophone its naturally powerful and projective tone.",
+            "The instrument features a complex system of padded keys covering tone holes. By pressing different combinations of keys, the player alters the effective length of the vibrating air column, which changes the pitch.",
+            "A player's technique heavily dictates the instrument's character. The embouchure (the position of the jaw and lips), breath support, and tongue placement allow the saxophonist to shape precise attacks, sweeping pitch bends, wide vibrato, and drastic shifts in tone color. Advanced techniques like subtone, growling, and multiphonics can make the instrument sound almost human."
+          ],
+          "history": [
+            "Belgian instrument maker Adolphe Sax invented the saxophone in the early 1840s, patenting his design in 1846. He sought to create a revolutionary instrument that combined the nimble, technical agility of woodwinds with the powerful, carrying volume of brass instruments.",
+            "Sax designed a complete family of instruments—ranging from the tiny sopranino down to the massive contrabass—so they could cover several registers and function as a unified section. The saxophone initially found its strongest foothold in French military and concert bands, which valued its robust projection for outdoor performances.",
+            "However, the saxophone's true expressive potential was unlocked in the twentieth century with the rise of jazz in the United States. Jazz musicians capitalized on the instrument's flexibility, developing highly individual approaches to phrasing, improvisation, and tone.",
+            "Today, different sizes of the saxophone—most commonly the alto, tenor, and baritone—are chosen for their distinct ranges and characteristic colors. The instrument remains a central voice in jazz, concert bands, marching bands, rhythm and blues, funk, rock, pop, and contemporary classical music."
+          ],
+          "image": {
+            "src": "img/saxophone.jpg",
+            "alt": "Saxophone player performing in a black background",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@abject\" target=\"_blank\" rel=\"noopener\">Benjamin Lehman</a></cite> on <a href=\"https://unsplash.com/photos/brass-saxophone-in-black-background-0h2F-Ib2Zdo\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Embouchure",
+              "description": "The player's lip and jaw pressure directly shape the reed's vibration, enabling effects from smooth subtones to aggressive growls."
+            },
+            {
+              "title": "Timbre",
+              "description": "The conical metal tube naturally projects a rich, warm core that can be pushed into bright, cutting brassiness."
+            },
+            {
+              "title": "Vibrato",
+              "description": "Players frequently use a rhythmic jaw motion to give sustained notes a singing, vocal-like quality."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/saxophone",
+            "title": "Encyclopaedia Britannica's saxophone entry"
+          }
+        },
+        {
+          "id": "bassoon",
+          "name": "Bassoon",
+          "familyId": "woodwinds",
+          "familyName": "Woodwinds",
+          "summary": "A folded double-reed instrument known for its broad range and expressive low register.",
+          "intro": [
+            "The bassoon is a large double-reed woodwind instrument renowned for its distinctive, folded wooden body and its versatile voice. It can anchor an ensemble with warm, serious low notes, yet its quick articulation and unusual upper register make it highly effective for lyrical solos and characterful, even humorous, musical passages."
+          ],
+          "soundMechanism": [
+            "Sound begins when the player blows through a double reed—two pieces of cane tied together—which is attached to a curved metal tube called a bocal. The vibrating reeds set the air column in motion inside the instrument's conical bore.",
+            "Because the bassoon's wooden tube is nearly nine feet long, it is \"doubled\" or folded in half. This allows the air to travel down the boot joint and back up through the bell, making the instrument compact enough to hold. A complex system of metal keys and tone holes spans this long body, enabling the performer to change pitches across a wide range.",
+            "The player's embouchure, air pressure, and voicing heavily dictate the instrument's tone. A looser embouchure and slower air might produce a dark, rumbling low note, while a firmer bite and faster air can coax out a focused, nasal, and surprisingly bright upper register."
+          ],
+          "history": [
+            "The modern bassoon evolved from earlier Renaissance double-reed instruments, most notably the dulcian, which was carved from a single piece of wood. By the seventeenth century, makers in France began constructing the instrument in separate joints, which improved its intonation and allowed for a more consistent internal bore.",
+            "Over the eighteenth and nineteenth centuries, the bassoon underwent significant mechanical refinements. German maker Wilhelm Heckel developed a key system and bore design that became the standard for the modern instrument, ensuring it could project reliably and meet the expanding technical demands of orchestral composers.",
+            "In the orchestra, bassoons frequently reinforce the low strings and brass, providing a rich bass foundation. However, composers also rely on them for expressive mid-register melodies and rapid, staccato counterpoint.",
+            "Today, the bassoon is a staple in orchestras, concert bands, and chamber ensembles. Its larger sibling, the contrabassoon, extends the family's role even lower, supplying a deep, resonant rumble that grounds the entire woodwind section."
+          ],
+          "image": {
+            "src": "img/bassoon.jpg",
+            "alt": "A wooden bassoon with silver keys with a gray background",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@metropolitanmuseum\" target=\"_blank\" rel=\"noopener\">The Metropolitan Museum of Art</a></cite> on <a href=\"https://unsplash.com/photos/bassoon-with-silver-keys-n6MIRL2w6UA\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Timbre",
+              "description": "Listen for the contrast between its dark, rounded bottom octave and the more pinched, nasal quality of its high notes."
+            },
+            {
+              "title": "Articulation",
+              "description": "The double reed allows for incredibly crisp, rapid staccato notes, often used by composers for nimble or comic effect."
+            },
+            {
+              "title": "Blend",
+              "description": "In an ensemble, its warm tone can seamlessly merge with cellos or horns, adding subtle depth without overpowering other voices."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/bassoon",
+            "title": "Encyclopaedia Britannica's bassoon entry"
+          }
+        },
+        {
+          "id": "clarinet",
+          "name": "Clarinet",
+          "familyId": "woodwinds",
+          "familyName": "Woodwinds",
+          "summary": "A single-reed instrument whose changing registers can sound both mellow and bright.",
+          "intro": [
+            "The clarinet is a single-reed woodwind instrument renowned for its exceptionally wide expressive range and famously fluid tone. Its versatile sound can blend seamlessly into the warm textures of an orchestra or stand out as a brilliant, agile solo voice."
+          ],
+          "soundMechanism": [
+            "Sound is produced when the player blows air through a mouthpiece, causing a single cane reed, which is secured by a metal or leather ligature, to vibrate. This vibration sets the air column inside the instrument's dense wooden or synthetic body into motion.",
+            "Unlike the conical saxophone or oboe, the clarinet features a mostly cylindrical bore. Because of this acoustic property, the clarinet overblows at the twelfth rather than the octave. Pressing the register key raises the pitch by an octave and a perfect fifth, navigating the acoustic break between its distinct ranges.",
+            "The player's fingers operate an intricate system of metal keys, rings, and tone holes that change the effective length of the air column. By adjusting breath support and embouchure, the player shifts through the instrument's three distinct registers: the dark, woody chalumeau (low), the bright, singing clarion (middle), and the piercing altissimo (high)."
+          ],
+          "history": [
+            "The clarinet was invented around 1700 by German instrument maker Johann Christoph Denner, who modified an earlier single-reed folk instrument called the chalumeau. By adding a register key, Denner unlocked the instrument's upper range, allowing it to sing with a clear, trumpet-like voice (which gave the \"clarion\" register its name).",
+            "Early clarinets had only a few keys and required complex cross-fingerings. In the late eighteenth century, composers like Wolfgang Amadeus Mozart championed the instrument's expressive capabilities, cementing its permanent place in the symphony orchestra. By the mid-nineteenth century, makers adapted the Boehm system of keys and rings—originally developed for the flute—to the clarinet, vastly improving its technical agility and intonation.",
+            "The instrument's unparalleled dynamic control and portability helped it flourish in diverse musical traditions worldwide. Beyond classical orchestras and military bands, it became the expressive, wailing soul of Eastern European klezmer music, as well as a leading solo voice during the jazz and swing eras.",
+            "Today, the clarinet family encompasses instruments of many sizes, most notably the B-flat soprano and the deeper, resonant bass clarinet, remaining a vital and versatile force across all genres."
+          ],
+          "image": {
+            "src": "img/clarinet.jpg",
+            "alt": "A grayscale photo of a clarinet being played by a person sitting down",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@gravax\" target=\"_blank\" rel=\"noopener\">Gilles Gravier</a></cite> on <a href=\"https://unsplash.com/photos/a-person-holding-a-saxophone-in-their-hands-UA-KCDfKzAg\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Registers",
+              "description": "Listen for the dramatic shift in tone color between the dark, hollow low notes and the bright, singing middle register."
+            },
+            {
+              "title": "Dynamics",
+              "description": "The instrument can achieve an almost silent whisper (pianissimo) and swell to a piercing volume, offering immense dynamic control."
+            },
+            {
+              "title": "Agility",
+              "description": "Modern keywork allows the player to execute rapid, liquid runs and arpeggios across the instrument's exceptionally wide range."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/clarinet",
+            "title": "Encyclopaedia Britannica's clarinet entry"
+          }
+        }
+      ],
+      "image": {
+        "src": "img/flute.jpg",
+        "alt": "Woodwind family instruments featuring concert flute"
+      }
+    },
+    {
+      "id": "brass",
+      "name": "Brass",
+      "shortDescription": "Vibration of a player's lips against a mouthpiece causes these instruments to produce sound.",
+      "overview": "Brass players buzz their lips into a mouthpiece. The tube length and shape determine the resonant possibilities.",
+      "instruments": [
+        {
+          "id": "trumpet",
+          "name": "Trumpet",
+          "familyId": "brass",
+          "familyName": "Brass",
+          "summary": "A compact, brilliant voice that became central to ceremonies, jazz, and orchestras.",
+          "intro": [
+            "The trumpet is the highest and most prominent voice of the brass family, celebrated for its brilliant, penetrating tone and agile projection. From ancient battlefield fanfares to the searing lead lines of modern big bands and symphony orchestras, its versatile sound can command a concert hall with radiant power or weave intimate, lyrical melodies with delicate nuance."
+          ],
+          "soundMechanism": [
+            "Sound begins when the player buzzes their lips together inside a cup-shaped mouthpiece. The player's embouchure acts as a variable acoustic valve, sending rapid pulses of pressurized air into the instrument. These pulses excite the air column trapped within the instrument's brass tubing, creating standing waves that resonate as audible pitch.",
+            "The standard modern B-flat trumpet consists of approximately four and a half feet of brass tubing. Acoustically, it features a predominantly cylindrical bore through the leadpipe and valve casing, which keeps the sound focused and bright before expanding outward into a rapidly flaring conical bell.",
+            "As a brass aerophone, an open trumpet produces the natural harmonic series based on its physical tube length. To play chromatically across the entire register, players depress three piston valves (or rotary valves in many European orchestras). Each valve diverts the vibrating air stream into supplementary loops of tubing: the second valve lowers the pitch by a half step, the first valve by a whole step, and the third valve by a step and a half. Combining these valves provides complete chromatic coverage across several octaves.",
+            "Trumpeters articulate notes by striking the roof of the mouth or back of the teeth with the tongue. By alternating consonant syllables (\"t-k-t-k\"), performers execute rapid double and triple tonguing. Players also alter the shape of their oral cavity and air speed to shift effortlessly between low pedal notes and soaring upper clarino registers.",
+            "Timbre can be dramatically transformed using specialized mutes placed inside the bell. A straight mute produces a sharp, piercing, metallic bite; a cup mute yields a soft, introspective, velvety color; and a Harmon mute—often played with the inner stem removed—delivers the iconic buzzy, intimate whisper made famous in cool jazz."
+          ],
+          "history": [
+            "Trumpet ancestors reach back thousands of years to ancient hollowed animal horns, sea conches, and straight metal signaling tubes. Civilizations across ancient Egypt, Greece, Rome, and the Near East—including the Egyptian sheneb, the Hebrew shofar, and the Roman salpinx and tuba—relied on trumpets primarily for battlefield communication, religious rituals, and imperial ceremonies rather than harmonic music.",
+            "Throughout the Renaissance and Baroque eras, the instrument evolved into the \"natural trumpet\"—a long, coiled brass tube without valves. Master performers specialized in the extreme upper harmonic register (the clarino style), where natural overtones sit closely enough to form complete melodic scales. Baroque composers like Johann Sebastian Bach and Georg Philipp Telemann wrote dazzling, florid trumpet parts that required extraordinary lip control to play in tune without any mechanical aids.",
+            "The 19th century brought a technological revolution with the invention of the valve. In the 1810s, Heinrich Stölzel and Friedrich Blühmel patented the first functional brass valves, which François Périnet refined into the reliable piston valve system in 1838. This mechanical breakthrough liberated the trumpet from the natural harmonic series, allowing it to play rapid chromatic lines throughout its full register and replacing older keyed and coiled varieties.",
+            "In the orchestral realm, composers such as Hector Berlioz, Gustav Mahler, and Igor Stravinsky embraced the valve trumpet for its dramatic, dynamic power and ability to reinforce climaxes. Simultaneously, the trumpet became an essential cornerstone of civic wind bands, British brass bands, and military ensembles worldwide, anchoring both ceremonial fanfares and lively marches.",
+            "In the 20th century, the trumpet experienced an explosive artistic rebirth through American jazz. Pioneers like Louis Armstrong, Bix Beiderbecke, Dizzy Gillespie, and Miles Davis transformed the instrument into the definitive voice of modern virtuosic improvisation. Modern trumpets are typically crafted from yellow or gold brass with lacquered or silver-plated finishes, spanning specialized models like the standard B-flat, orchestral C, high-register piccolo trumpet, and mellow flugelhorn."
+          ],
+          "image": {
+            "src": "img/trumpet.jpg",
+            "alt": "Brass musician performing on stage with a trumpet",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@brunopego\" target=\"_blank\" rel=\"noopener\">Bruno Justo Pego</a></cite> on <a href=\"https://unsplash.com/photos/person-playing-gold-trumpet-HeWRZ5-5Kt0\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Fanfare",
+              "description": "Bright, open attacks that carry triumphant, heroic melodies across large distances and ensemble textures."
+            },
+            {
+              "title": "Mutes",
+              "description": "Distinct acoustic filters—from the buzzy Harmon mute to the mellow cup mute—that reshape brightness and tonal color."
+            },
+            {
+              "title": "Double tonguing",
+              "description": "A rapid alternating articulation technique allowing fast, clean staccato passages and rhythmic flourishes."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/trumpet-musical-instrument",
+            "title": "Encyclopaedia Britannica's trumpet entry."
+          }
+        },
+        {
+          "id": "trombone",
+          "name": "Trombone",
+          "familyId": "brass",
+          "familyName": "Brass",
+          "summary": "A slide makes continuous pitch movement part of the instrument's personality.",
+          "intro": [
+            "The trombone is a powerful and versatile low-brass instrument distinguished by its smooth, telescoping hand slide instead of finger valves. Capable of both noble, vocal cantabile melodies and thunderous orchestral climaxes, its continuous pitch mechanism allows it to produce seamless glissandos, microtonal adjustments, and an exceptionally rich, expressive warmth across wide musical settings."
+          ],
+          "soundMechanism": [
+            "Sound is initiated when the player buzzes their lips into a deep, cup-shaped mouthpiece. This vibration excites an air column traversing roughly nine feet of brass tubing. The instrument's acoustic core is defined by a predominantly cylindrical bore through roughly two-thirds of its length, which gives the trombone a direct, clear, and projecting tone before widening into a gently expanding bell flare.",
+            "The heart of the trombone's mechanics is the dual-walled hand slide. By smoothly extending the outer slide along the lubricated inner tubes, the player physically lengthens or shortens the vibrating column of air without interrupting airflow. The slide features seven standard positions spaced along the reach of the player's arm, with each position lowering the fundamental pitch by one half step.",
+            "Because the instrument lacks fixed mechanical frets or valves, intonation relies entirely on the player's ear, muscle memory, and embouchure control. The performer can nudge the slide by mere millimeters to micro-tune chords with neighboring instruments or execute a true acoustic glissando—a smooth, unbroken slide between pitches that no valve instrument can match.",
+            "Slide players coordinate their tongue attacks with rapid arm motion to achieve crisp articulation and avoid unwanted slurring between distinct notes. By softening the attack with a gentle \"da\" syllable, the trombonist creates a fluid, singing legato that closely mirrors the human voice.",
+            "Many modern tenor trombones feature an \"F-attachment\"—an additional rotary valve operated by the left thumb that routes air through extra tubing. This attachment lowers the instrument's fundamental pitch by a fourth, bridging the low acoustic gap into the pedal register and eliminating the need for awkward reaches out to sixth and seventh positions."
+          ],
+          "history": [
+            "The trombone first appeared during the mid-15th century in Renaissance Europe, evolving from the slide trumpet. Originally named the sackbut (likely derived from the Old French saqueboute, meaning \"pull-push\"), it was renowned for its ability to double choral voices in sacred cathedral music and perform in civic wind ensembles due to its pure intonation and warm, vocal blend.",
+            "Throughout the Baroque and Classical eras, the sackbut retained a sacred, ceremonial status, often associated with solemn rituals and the supernatural. Wolfgang Amadeus Mozart famously featured a trio of trombones in operas like Don Giovanni and in his Requiem to evoke divine judgment and otherworldly solemnity, while staying largely outside standard secular orchestral symphonies.",
+            "The 19th century brought the trombone firmly into the modern concert hall. Ludwig van Beethoven made history by introducing trombones into the triumphant finale of his Fifth Symphony (1808). Following Beethoven, Romantic masters such as Hector Berlioz, Johannes Brahms, and Richard Wagner established the standard orchestral section of two tenor trombones and one bass trombone, celebrating their dramatic dynamic presence and choral richness.",
+            "In the early 20th century, the trombone developed an electrifying voice through American jazz and brass band traditions. New Orleans \"tailgate\" players used bold smears, fills, and rhythmic countermelodies from the back of parade wagons. During the swing and bebop eras, virtuosos like Tommy Dorsey and J.J. Johnson proved that the slide could deliver the blistering technical speed, agility, and intricate improvisation of trumpets and saxophones.",
+            "Contemporary trombones are precision-crafted from yellow, gold, or rose brass, often featuring nickel-silver slide tubes for effortless gliding. Today's trombone family includes the ubiquitous B-flat tenor, the F-attachment tenor, the double-valve bass trombone, and specialized instruments like the soprano, alto, and massive contrabass trombone."
+          ],
+          "image": {
+            "src": "img/trombone.jpg",
+            "alt": "Brass section with trombone performing on a concert stage",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@markusspiske\" target=\"_blank\" rel=\"noopener\">Markus Spiske</a></cite> on <a href=\"https://unsplash.com/photos/a-close-up-of-a-person-playing-a-trombone-Xv4tOc_W2yg\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Glissando",
+              "description": "The iconic uninterrupted slide between pitches, achieved by moving the hand slide while sustaining a continuous tone."
+            },
+            {
+              "title": "Chorale tone",
+              "description": "A warm, organ-like blend produced when a trombone section performs four-part vocal-style harmonies."
+            },
+            {
+              "title": "Rip",
+              "description": "An energetic, explosive accent where the player rapidly ascends through the harmonic series into a target note."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/trombone",
+            "title": "Encyclopaedia Britannica's trombone entry."
+          }
+        },
+        {
+          "id": "tuba",
+          "name": "Tuba",
+          "familyId": "brass",
+          "familyName": "Brass",
+          "summary": "The deep foundation of the modern brass family, built for resonance and weight.",
+          "intro": [
+            "The tuba is the largest and lowest-pitched member of the brass family, serving as the indispensable harmonic anchor of symphony orchestras, concert bands, and brass ensembles. With its immense coiled body, wide conical bore, and expansive acoustic resonance, the tuba supplies the deep sonic foundation upon which full ensembles build their balance, while also possessing unexpected agility, warm melodic grace, and explosive dynamic impact."
+          ],
+          "soundMechanism": [
+            "Sound is produced when the player buzzes their lips at low frequencies inside a large, deep cup- or funnel-shaped mouthpiece. The performer's relaxed lip embouchure initiates slow acoustic vibrations, setting an enormous air column vibrating through twelve to eighteen feet of coiled brass tubing.",
+            "The defining acoustic feature of the tuba is its continuously expanding conical bore. From the leadpipe, through the valve block, and out to the sweeping bell flare—which can span up to twenty inches in diameter—the tubing steadily widens. This conical geometry dampens harsh upper harmonics and amplifies deep fundamental bass tones, surrounding the listener with a rich, enveloping resonance rather than a sharp, directional beam.",
+            "Tubas are equipped with three to six valves, utilizing either vertical piston mechanisms or rotary valves actuated by mechanical linkages. Depressing valves routes the vibrating air stream through additional tubing loops to lower the pitch chromatically. The fourth, fifth, and sixth valves are vital on professional instruments, providing alternative fingerings for low-register intonation and unlocking extreme sub-bass \"pedal tones\" that rumble well below the staff.",
+            "Playing the tuba demands an immense volume of air moved at steady, relaxed speeds rather than high pressures. Tubists cultivate deep diaphragmatic breath support and an open throat chamber to sustain resonant bass lines across long musical phrases, ensuring the tone remains centered and round whether playing at a subtle whisper or a commanding double-forte.",
+            "Despite its massive physical size, the tuba can speak with remarkable crispness. Tubists utilize precise tongue placement and immediate breath release to execute clean staccato rhythms and agile bass runs. In addition, massive aluminum or composite mutes can be inserted into the bell, attenuating volume and lending the instrument an eerie, distant, and focused color."
+          ],
+          "history": [
+            "Throughout the Renaissance, Baroque, and early Classical periods, ensembles lacked a powerful, reliable bass brass instrument. Orchestras relied on unwieldy instruments like the serpent (a snakelike wooden tube with leather wrapping and finger holes) and the early 19th-century metal ophicleide. Both instruments suffered from inconsistent tone, fragile intonation, and limited dynamic presence in large concert halls.",
+            "The modern tuba was born on September 12, 1835, when Prussian bandmaster Wilhelm Wieprecht and Berlin instrument maker Johann Gottfried Moritz received a patent for the Bass-Tuba in F. Outfitted with five newly designed \"Berliner\" piston valves, this revolutionary creation provided uniform acoustic power, reliable chromatic fingering, and a rock-solid bass foundation that quickly replaced older keyed predecessors.",
+            "Composers eagerly embraced the new instrument. Hector Berlioz famously championed the tuba in France, updating his Symphonie fantastique score to substitute tubas for the ophicleide parts. Richard Wagner expanded the brass palette even further in his epic opera cycle Der Ring des Nibelungen, scoring for both contrabass tubas and specially commissioned \"Wagner tubas\" to bridge the sonic territory between French horns and low brass.",
+            "As town and military bands flourished in the late 19th century, instrument makers created mobile variations of the tuba for marching musicians. In the 1890s, American bandmaster John Philip Sousa collaborated with instrument manufacturer J.W. Pepper to design the Sousaphone—a circular tuba that rests across the player's shoulder with an enormous forward-facing bell that projects bass frequencies directly over outdoor crowds.",
+            "Today, orchestral tubists perform on contrabass tubas pitched in BB-flat or CC for foundational symphonic power, and bass tubas in E-flat or F for higher orchestral passages and solo repertoire. The instrument's reputation as a serious solo voice was permanently cemented in 1954 with Ralph Vaughan Williams's landmark Tuba Concerto, paving the way for rich contributions across jazz, brass quintets, and contemporary experimental music."
+          ],
+          "image": {
+            "src": "img/tuba.jpg",
+            "alt": "Large brass tuba in an orchestral setting",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@janoschphotos\" target=\"_blank\" rel=\"noopener\">Janosch Jost</a></cite> on <a href=\"https://unsplash.com/photos/a-person-playing-a-saxophone-jLhpu4-UL9I\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Pedal tones",
+              "description": "Deep, vibrating fundamental notes at the very bottom of the instrument's register that can be physically felt in the room."
+            },
+            {
+              "title": "Foundation",
+              "description": "The rounded, warm bass cushion that establishes pitch roots and acoustic warmth for the entire brass section and orchestra."
+            },
+            {
+              "title": "Agile articulation",
+              "description": "Clean, crisp staccato attacks in bass lines that propel musical tempo without muddying ensemble clarity."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/tuba",
+            "title": "Encyclopaedia Britannica's tuba entry."
+          }
+        },
+        {
+          "id": "euphonium",
+          "name": "Euphonium",
+          "familyId": "brass",
+          "familyName": "Brass",
+          "summary": "A mellow, lyrical low-brass instrument often heard in bands and ensembles.",
+          "intro": [
+            "The euphonium is a medium-bore low brass instrument famed for its rich, velvety timbre and singing expressive warmth. Deriving its name from the Greek word euphōnos, meaning \"sweet-voiced\" or \"well-sounding,\" it functions as the lyrical tenor-baritone voice of wind bands and brass bands."
+          ],
+          "soundMechanism": [
+            "Sound is initiated by the player buzzing their lips into a deep, cup- or funnel-shaped mouthpiece. The vibration excites an air column traversing roughly nine feet of coiled brass tubing, pitched in B-flat at the same fundamental frequency as the tenor trombone.",
+            "What gives the euphonium its unmistakable voice is its wide, intensely conical bore. Unlike the primarily cylindrical tubing of a trombone or trumpet, the euphonium's tubing continuously expands throughout its length before opening into a broad, upward-facing bell. This conical expansion softens higher-frequency harmonics, producing a rounded, mellow acoustic core that blends effortlessly with both woodwinds and heavier brass.",
+            "Most professional euphoniums feature four valves: three top-action piston valves played with the right hand and a fourth side-mounted valve operated by the left index finger. Depressing the fourth valve lowers the pitch by a perfect fourth, bridging the low register down into the pedal tones and offering alternative fingerings to improve troublesome acoustic intervals.",
+            "To maintain pristine intonation, modern concert euphoniums incorporate a \"compensating\" valve system, invented by David Blaikley in 1874. When the fourth valve is engaged simultaneously with other valves, air is automatically rerouted through secondary tuning loops. This corrects the inherent sharpness of low valve combinations without forcing the performer to manually pull slides while playing.",
+            "Performers shape their tone using open throat resonance, variable air speed, and a gentle jaw vibrato that closely mimics human operatic singing. Because its attack is warm and forgiving, the euphonium can perform blistering technical runs, rapid double-tonguing cadenzas, and sustained, heartfelt solos with equal fluency."
+          ],
+          "history": [
+            "Before the mid-19th century, low-register wind parts relied on flawed predecessors such as the serpent—a contorted wooden tube covered in leather with tone holes—and the ophicleide, a large metal keyed bugle. While functional, these instruments suffered from unpredictable intonation, erratic volume, and awkward ergonomics that frustrated composers and bandmasters.",
+            "The advent of reliable piston valves in the 1830s spurred rapid instrument experimentation. In 1843, Ferdinand Sommer of Weimar created a wide-bore tenor brass instrument named the euphonion, while inventor Adolphe Sax developed the related saxhorn family in Paris. These new conical brass instruments brought unprecedented power, uniform tone, and dependable intonation to military marching and civic bands across Europe.",
+            "The euphonium found its quintessential artistic home in the British brass band movement of the late 19th and early 20th centuries. Brass band composers like Gustav Holst, Edward Elgar, and Ralph Vaughan Williams treated the euphonium as a premier solo voice, scoring intricate, florid cadenzas and soaring countermelodies that demanded the virtuosic skill of a violin or cornet soloist.",
+            "In the United States, John Philip Sousa's world-famous touring band helped establish the euphonium as an iconic American concert band instrument. Legendary soloists like Simone Mantia captivated audiences with show-stopping theme-and-variations solos based on popular Italian operatic arias. The instrument became an indispensable pillar in American university, high school, and military bands.",
+            "Today, the euphonium continues to flourish through a rapidly expanding solo and chamber repertoire, including concertos with symphony orchestras and tuba-euphonium quartets."
+          ],
+          "image": {
+            "src": "img/euphonium.avif",
+            "alt": "Silver Euphonium on a concert stage",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@laurar1vera\" target=\"_blank\" rel=\"noopener\">Laura Rivera</a></cite> on <a href=\"https://unsplash.com/photos/musicians-playing-brass-instruments-in-a-band-vdNp-z1f0rw\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Countermelody",
+              "description": "Soaring, lyrical lines that weave gracefully underneath high woodwind and trumpet melodies in concert band music."
+            },
+            {
+              "title": "Vibrato",
+              "description": "A gentle, vocal-like oscillation of pitch that lends sustained phrases a singing, baritone warmth."
+            },
+            {
+              "title": "Compensating clarity",
+              "description": "In-tune, centered low notes in the pedal register that provide substantial acoustic weight without losing tonal focus."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/euphonium",
+            "title": "Encyclopaedia Britannica's euphonium entry."
+          }
+        }
+      ],
+      "image": {
+        "src": "img/trumpet.jpg",
+        "alt": "Brass family instruments featuring trumpet"
+      }
+    },
+    {
+      "id": "strings",
+      "name": "Strings",
+      "shortDescription": "Stretched strings vibrate by being plucked, bowed, or strummed, creating a wide range of tones and textures.",
+      "overview": "String instruments turn the vibration of stretched strings into sound through a bridge, body, and sometimes a bow or pick.",
+      "instruments": [
+        {
+          "id": "violin",
+          "name": "Violin",
+          "familyId": "strings",
+          "familyName": "Strings",
+          "summary": "A small bowed instrument with a huge expressive range and global repertoire.",
+          "intro": [
+            "The violin is the highest and most prominent member of the orchestral string family, renowned for its brilliant agility, singing tone, and immense expressive range. Played with a horsehair bow across four tuned strings, this compact wooden instrument can produce anything from an intimate, whisper-soft cantabile to a fiery, soaring solo capable of cutting over a full symphony orchestra."
+          ],
+          "soundMechanism": [
+            "Sound is generated when a horsehair bow is drawn across one of four strings tuned in perfect fifths (G, D, A, E). The bow hair, coated with sticky tree rosin, catches and releases the string in a rapid \"stick-slip\" cycle, producing sustained vibrations. Performers can also pluck strings directly with their fingers (pizzicato) to create an immediate, percussive attack with rapid acoustic decay.",
+            "String vibrations pass through the carved maple bridge to the arched spruce top plate. Inside the hollow body cavity, two critical structural elements channel this acoustic energy: the bass bar reinforces low-frequency vibrations beneath the lowest string, while the soundpost—a small spruce dowel wedged between the top and back plates—transfers vibrations directly to the maple back. This excites the air enclosed within the instrument, which projects rich sound outward through the carved f-holes.",
+            "The violin's fingerboard is completely fretless. Players alter pitch by stopping the vibrating string length with their left fingertips. Without frets to mark discrete intervals, violinists rely on finely tuned muscle memory and ear training. This allows seamless microtonal adjustments, expressive sliding portamentos, and a rich vibrato created by gently rocking the fingertip against the fingerboard.",
+            "The bow serves as the instrument's expressive voice. By altering bow speed, downward weight, and contact point between the bridge and fingerboard, the performer controls dynamics and timbre. Bowing close to the bridge (sul ponticello) yields a glassy, eerie shimmer rich in higher harmonics, while bowing over the fingerboard (sul tasto) produces a soft, flute-like tone. Articulations range from smooth, connected legato to crisp bouncing strokes like spiccato.",
+            "Violinists can also sound two adjacent strings simultaneously to produce chords and polyphonic textures (\"double stops\"), or lightly touch harmonic nodes on a string to isolate higher overtones, generating pure, bell-like flageolet tones."
+          ],
+          "history": [
+            "The modern violin emerged during the early 16th century in northern Italy, developing from earlier bowed ancestors including the Byzantine lira, the Arabic rebab, the medieval rebec, and the Renaissance lira da braccio. In contrast to the fretted, aristocratic viola da gamba family, the early violin was initially considered a lively instrument for court dances, folk celebrations, and street performance.",
+            "During the 16th through 18th centuries, luthiers in the Italian cities of Brescia and Cremona elevated violin craftsmanship into an enduring art form. Andrea Amati established the instrument's classic proportions, which reached their absolute zenith under master builders Antonio Stradivari and Giuseppe Guarneri \"del Gesù\". Their instruments, built from aged alpine spruce and Balkan maple with secret varnish recipes, remain the gold standard for acoustic resonance and projection.",
+            "As public concert halls expanded and romantic orchestras grew larger in the late 18th and early 19th centuries, existing violins were modified to increase power and volume. Luthiers angled the neck backward, lengthened the fingerboard, installed heavier bass bars, and raised string tension. Simultaneously, French bowmaker François Tourte perfected the modern concave bow, using dense pernambuco wood to provide the balance, spring, and power required for modern virtuosic technique.",
+            "Beyond classical concertos and symphonies, the violin spread globally into diverse folk traditions. Known colloquially as the \"fiddle,\" it became the rhythmic heart of Celtic jigs, Scandinavian folk dances, American bluegrass, Appalachian old-time, and country music. In South India, Carnatic classical musicians adapted the violin into an essential solo and accompanying voice, holding the scroll on their foot to enable rapid microtonal slides (gamakas).",
+            "Today, violins typically use synthetic-core or steel strings wound with silver and aluminum, replacing traditional sheep-gut strings for greater tuning stability. In contemporary music, the violin continues to evolve through carbon-fiber bows, piezoelectric pickups, solid-body electric instruments, and extended five-string variants that bridge into the viola's range."
+          ],
+          "image": {
+            "src": "img/violin.avif",
+            "alt": "Close view of a violin atop sheet music next to a bow",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@kaisarria\" target=\"_blank\" rel=\"noopener\">Ria Nurul Kamariah</a></cite> on <a href=\"https://unsplash.com/photos/a-violin-sitting-on-top-of-sheet-music-Ro7BTZEuqwE\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Vibrato",
+              "description": "A warm, expressive oscillation of pitch produced by gently rocking the left fingertip against the fingerboard."
+            },
+            {
+              "title": "Spiccato",
+              "description": "A light, bouncing bow stroke that creates crisp, dancing staccatos with clear separation between notes."
+            },
+            {
+              "title": "Pizzicato",
+              "description": "Plucking the string directly with the finger, generating a sharp, percussive resonance without the bow."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/violin",
+            "title": "Encyclopaedia Britannica's violin entry."
+          }
+        },
+        {
+          "id": "harp",
+          "name": "Harp",
+          "familyId": "strings",
+          "familyName": "Strings",
+          "summary": "An ancient frame instrument whose open strings invite glissando and layered color.",
+          "intro": [
+            "The harp is an ancient and mesmerizing chordophone featuring an open triangular frame of strings that rise directly from a resonant wooden soundboard. Celebrated for its crystalline tone, layered polyphonic textures, and sweeping cascades of color, the harp allows a performer's fingertips to pluck open strings directly without a bow, plectrum, or hammer, creating an intimate, physical bond between touch and sound."
+          ],
+          "soundMechanism": [
+            "Sound is generated when the player plucks strings directly with the pads of the thumbs and first three fingers. Releasing a plucked string allows it to vibrate along its full unstopped length, producing an immediate, clear attack followed by a warm, ringing acoustic decay. The little finger is not used due to its shorter reach and weaker muscular control.",
+            "The modern concert grand harp is structured around a rigid triangular frame: a vertical pillar (column) that withstands over two thousand pounds of string tension, a curved neck containing complex mechanical linkages, and a hollow wooden soundbox (body). The strings anchor into a tapered spruce soundboard that is thick at the base for deep bass resonance and thin at the top to support delicate, high-register clarity.",
+            "Unlike fretted or bowed instruments where fingers press strings against a neck to change pitch, each harp string is dedicated to a single diatonic note. Pitch is altered on concert instruments using seven foot pedals located around the base (one for each pitch letter: D, C, B, E, F, G, A). Each pedal controls a three-position mechanical rod system running up through the column to rotating brass discs (fourchettes) on the neck, raising or lowering all octaves of that note by a half step (flat, natural, sharp) simultaneously.",
+            "Harpists shape timbre through varied hand positions and contact points. Plucking low near the soundboard (près de la table) creates a dry, nasal, guitar-like sharpness, while plucking in the middle of the string yields a rounded, resonant warmth. Performers also execute bell-like harmonics by lightly touching the midpoint of a string with the side of the palm while plucking with the thumb, or damp vibrations with flat hands to control phrasing and silence.",
+            "Because the pedals can preset strings to any enharmonically spelled chord or scale, the performer can sweep their hands across multiple octaves in a single continuous gesture. This produces the iconic glissando—a shimmering wave of sound that can range from an airy whisper to a dramatic, room-filling orchestral swell."
+          ],
+          "history": [
+            "Harps rank among humanity's earliest documented musical instruments, dating back over five thousand years. Early arched or bow harps evolved from the archer's hunting bow, depicted in ancient Sumerian wall carvings, Babylonian cylinder seals, and Egyptian tomb frescoes. In ancient Greece and the Mediterranean, frame harps and related lyres were revered for philosophical contemplation, epic poetry recitation, and spiritual ritual.",
+            "In medieval Europe, portable frame harps flourished in the courts of troubadours and minstrel poets. In Ireland and the Scottish Highlands, the wire-strung Celtic harp (clàrsach) held immense cultural, spiritual, and political significance. Accompanied by hereditary bards who preserved history and family lineage, these instruments were carved from single willow logs and played with long fingernails.",
+            "As European Renaissance and Baroque music embraced complex chromatic modulations, diatonic harps struggled to keep up with orchestral demands. Makers experimented with crossed double-strung harps and manual hand hooks. Around 1720, Bavarian craftsman Jacob Hochbrucker invented the first single-action pedal harp, using foot pedals to raise pitches by a half step while leaving both hands free to pluck.",
+            "The crowning breakthrough occurred in 1810, when French instrument maker Sébastien Érard patented the double-action pedal harp. By equipping each pedal with two rotating discs, Érard allowed players to play in all twenty-four major and minor keys. This transformed the harp into a fully chromatic concert instrument, inspiring 19th- and 20th-century composers such as Hector Berlioz, Pyotr Ilyich Tchaikovsky, Claude Debussy, and Maurice Ravel to weave its radiant colors into the symphonic canon.",
+            "Contemporary concert grand harps typically carry forty-seven strings made of nylon, sheep gut, and wire-wound steel. Alongside orchestral concert grands, non-pedal lever harps continue to thrive in Celtic, folk, and early music, while modern electric and MIDI harps expand the instrument into jazz, pop, and electronic experimental soundscapes."
+          ],
+          "image": {
+            "src": "img/harp.jpg",
+            "alt": "Wooden string instrument detail",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@emmalourichter\" target=\"_blank\" rel=\"noopener\">Emma Richter</a></cite> on <a href=\"https://unsplash.com/photos/a-woman-playing-a-harp-in-front-of-a-microphone-KlgPfP3BJCU\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Glissando",
+              "description": "A sweeping, fluid stroke across adjacent strings that produces a shimmering, cascading wave of harmony."
+            },
+            {
+              "title": "Harmonics",
+              "description": "Crystalline, bell-like tones produced by lightly stopping the midpoint of a string with the palm while plucking."
+            },
+            {
+              "title": "Près de la table",
+              "description": "Plucking close to the soundboard to generate a tight, dry, and nasal acoustic timbre."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/harp",
+            "title": "Encyclopaedia Britannica's harp entry."
+          }
+        },
+        {
+          "id": "shamisen",
+          "name": "Shamisen",
+          "familyId": "strings",
+          "familyName": "Strings",
+          "summary": "A three-stringed Japanese instrument with a bright, percussive attack.",
+          "intro": [
+            "The shamisen is a traditional three-stringed Japanese plucked lute celebrated for its dry, percussive bite, expressive vocal flexibility, and distinctive buzzing resonance. Played with a large paddle-shaped plectrum called a bachi, the shamisen unites string melody with drum-like rhythmic impact, forming the sonic backbone of Japanese theater, narrative storytelling, and energetic folk traditions."
+          ],
+          "soundMechanism": [
+            "Sound is produced by striking three silk or synthetic strings with a heavy plectrum (bachi) carved from hardwood, ivory, or plastic. The performer strikes downward with forceful precision, deliberately striking both the string and the taut skin soundboard in the same physical stroke. This dual contact yields an explosive, percussive crack followed instantly by the melodic vibration of the plucked string.",
+            "The body of the shamisen (dō) is a rectangular wooden box with rounded edges, traditionally crafted from Chinese quince, mulberry, or rosewood. Both the front and back openings are tightly stretched with skin (traditionally cat or dog skin, and increasingly durable synthetic membranes). This drum-like construction functions as a sensitive, high-tension resonator, emphasizing fast attack transients and bright acoustic projection.",
+            "A signature acoustic feature of the shamisen is sawari (meaning \"touch\" or \"interference\"). Near the upper pegbox, the thickest lowest string is left unseated so it gently grazes a low wooden ridge on the neck during vibration. This intentional grazing generates a rich, buzzing overtone series that adds depth and sustain to the tone, imparting a contemplative, vocal-like buzz to the music.",
+            "The slender neck (sao) is completely fretless and typically built in three interlocking sections for portability. Without frets, the player slides their left fingers along the fingerboard to produce continuous pitch bends (suri-yubi), microtonal ornaments, and crisp left-hand finger plucks (hajiki), allowing the instrument to closely mimic the inflections and emotional cries of traditional Japanese vocalists.",
+            "A small, movable bridge (koma) made of bamboo, ivory, bone, or tortoiseshell rests lightly on the skin membrane, transferring string energy into the hollow body. Performers tune the strings using large wooden pegs (itomaki) according to three primary modal systems: Honchōshi (fourth and fifth), Niagari (fifth and fourth), or Sansagari (fourth and fourth)."
+          ],
+          "history": [
+            "The shamisen's lineage traces back to the Chinese sanxian, a three-stringed, snakeskin-covered lute. During the 14th century, the sanxian traveled along maritime trade routes into the Ryukyu Kingdom (modern Okinawa), where it developed into the Okinawan sanshin, an instrument played with a water buffalo horn pick.",
+            "In the mid-16th century (around 1562), the instrument reached mainland Japan through the port of Sakai near Osaka. Japanese musicians—especially blind lute players of the biwa tradition—adapted the instrument for local tastes. Because python skins were unavailable on mainland Japan, luthiers adopted domestic skins, enlarged the body, added the sawari buzzing mechanism, and replaced the small pick with the broad, fan-shaped bachi used for the biwa. These innovations gave the shamisen its uniquely explosive attack.",
+            "During the Edo period (1603–1867), the shamisen became a dominant force across Japanese musical and theatrical culture. It became the primary accompanying voice in Kabuki dance theater and Bunraku puppet theater, where thick-necked instruments provided dramatic, rhythmic accompaniment to gidayū narrative chanting. It also flourished in tea houses and entertainment quarters as the refined musical vehicle for geisha songs (kouta and nagauta).",
+            "In the late 19th and early 20th centuries in northern Japan's snowy Aomori prefecture, blind wandering minstrels developed the Tsugaru-shamisen tradition. Using a heavy, thick-necked instrument, Tsugaru players pioneered a blistering, improvisational solo style characterized by rapid tremolos, ferocious downward strikes, and emotional intensity often compared to flamenco guitar or bluegrass banjo.",
+            "Today, the shamisen spans three primary neck thicknesses: hosozao (slender neck for delicate lyrical song), chuzao (medium neck for folk and theatrical accompaniment), and futozao (thick neck for Bunraku and Tsugaru). Contemporary artists like the Yoshida Brothers have introduced the shamisen to global audiences, fusing traditional rhythms with rock, electronic music, and jazz."
+          ],
+          "image": {
+            "src": "img/shamisen.jpg",
+            "alt": "Japanese watercolor of a man in red robes playing a shamisen",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@metropolitanmuseum\" target=\"_blank\" rel=\"noopener\">Metropolitan Museum of Art</a></cite> on <a href=\"https://unsplash.com/photos/an-old-man-in-red-robes-plays-a-stringed-instrument-1WkpRYTpx5Y\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Sawari",
+              "description": "The intentional, buzzy resonance on the lowest string that produces shimmering overtones and extended sustain."
+            },
+            {
+              "title": "Bachi strike",
+              "description": "The sharp, percussive impact of the plectrum hitting both the string and skin soundboard in a single downward motion."
+            },
+            {
+              "title": "Hajiki",
+              "description": "Left-hand finger plucks and snap releases on the unfretted neck that add rapid ornamental rhythms to melodies."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/shamisen",
+            "title": "Encyclopaedia Britannica's shamisen entry."
+          }
+        },
+        {
+          "id": "guitar",
+          "name": "Guitar",
+          "familyId": "strings",
+          "familyName": "Strings",
+          "summary": "A portable fretted instrument that crossed genres, continents, and social settings.",
+          "intro": [
+            "The guitar is a fretted string instrument whose versatile, portable design has shaped musical movements across continents, cultures, and centuries. Whether strummed on an acoustic front porch, plucked in an intimate classical recital, or blasted through high-wattage amplifiers on an arena stage, its six strings translate fingertip touch into a complete palette of harmony, rhythm, and melody."
+          ],
+          "soundMechanism": [
+            "Sound originates when the performer plucks or strums strings made of nylon, steel, or nickel alloy. The vibrating string generates transverse waves whose frequency depends on its length, tension, and mass.",
+            "On an acoustic guitar, string vibrations pass over a bone or synthetic saddle into a wooden bridge glued directly to the soundboard (top plate). The soundboard—traditionally crafted from resonant spruce or cedar—pumps the air volume inside the hollow body cavity. Internal wooden braces (such as Antonio de Torres's fan bracing or Martin's crossed X-bracing) distribute vibrational energy across the soundboard while withstanding heavy string tension, projecting warm sound outward through the circular sound hole.",
+            "On an electric guitar, acoustic resonance is paired with electromagnetic induction. Solid-body guitars feature magnetic pickups beneath the strings, consisting of fine copper wire coils wrapped around magnetized pole pieces. When ferromagnetic steel strings vibrate in the magnetic field, they induce a microscopic alternating current. This audio signal travels through volume and tone potentiometers to an external amplifier, where it can be colored, boosted, or saturated with distortion, delay, and modulation.",
+            "The guitar's neck is inlaid with metal frets placed at precise semitone intervals along the fingerboard. Pressing a string behind a fret provides fixed pitch intonation. Guitarists combine fretted notes with open strings across standard tuning (E-A-D-G-B-E) or alternate tunings (such as DADGAD or open G) to voice lush chords, walking bass lines, and lightning-fast solos.",
+            "Timbre is intensely responsive to the player's picking technique. Plucking with bare fingertips and nails yields warm, delicate polyphony in classical, flamenco, and folk fingerstyle, while a plectrum (flatpick) provides the bright, punchy attack needed for bluegrass flatpicking and rock rhythm. Techniques like palm muting, finger tapping, hammer-ons, pull-offs, and expressive string bends allow the guitar to speak with vocal-like inflection."
+          ],
+          "history": [
+            "The guitar belongs to an ancient family of necked chordophones that includes the ancient Mesopotamian and Egyptian lutes, the Roman cithara, and the Moorish oud brought into medieval Iberia during the 8th century. In Renaissance and Baroque Spain, the four- and five-course guitar (guitarra latina) and the flat-backed vihuela coexisted alongside the European lute, establishing a rich tradition of polyphonic fingerpicked music.",
+            "During the 18th century, makers added a sixth single string and standardized modern tuning. In the 1850s, Spanish luthier Antonio de Torres Jurado revolutionized guitar construction by enlarging the body, thinning the soundboard, and perfecting internal fan bracing. Torres's designs established the proportions, 650 mm scale length, and rich acoustic projection that defined the modern nylon-string classical and flamenco guitar.",
+            "In early 20th-century America, guitar makers responded to the demand for louder instruments in string bands and dance orchestras. Christian Frederick Martin perfected sturdy X-bracing to support high-tension steel strings, introducing the large-bodied Dreadnought in 1916. Steel-string flat-top and archtop guitars quickly became the rhythmic backbone of country, bluegrass, blues, and early jazz.",
+            "As big bands expanded in the 1930s, acoustic guitars struggled to compete with loud brass sections. Innovators like George Beauchamp, Charlie Christian, and Les Paul pioneered magnetic pickups. In the early 1950s, Leo Fender launched the mass-produced Telecaster and Stratocaster, while Gibson introduced the carved-top Les Paul. These solid-body electric guitars eliminated acoustic feedback, transforming the instrument into the defining cultural icon of rock and roll, blues, funk, and modern pop.",
+            "Today, the guitar is one of the most widely played musical instruments in the world. Modern luthiers produce an incredible variety of instruments, from traditional Spanish classicals and steel-string acoustics to multi-scale fanned-fret guitars, 7- and 8-string extended-range electrics, MIDI synthesizer controllers, and digital modeling systems that replicate historic amplifiers and playing spaces."
+          ],
+          "image": {
+            "src": "img/guitar.jpg",
+            "alt": "Guitarist performing with an acoustic guitar",
+            "caption": "Photo by <cite><a href=\"https://unsplash.com/@jefflssantos\" target=\"_blank\" rel=\"noopener\">Jefferson Santos</a></cite> on <a href=\"https://unsplash.com/photos/person-playing-guitar-fCEJGBzAkrU\" target=\"_blank\" rel=\"noopener\">Unsplash</a>."
+          },
+          "listeningDetails": [
+            {
+              "title": "Fingerstyle",
+              "description": "Plucking individual strings with fingers and thumb, enabling simultaneous bass notes, inner chords, and melodies."
+            },
+            {
+              "title": "String bend",
+              "description": "Pushing a fretted string upward across the fingerboard to raise the pitch expressively like a human voice."
+            },
+            {
+              "title": "Palm muting",
+              "description": "Resting the heel of the picking hand lightly against the bridge saddles to create a tight, percussive chug."
+            }
+          ],
+          "externalResource": {
+            "url": "https://www.britannica.com/art/guitar",
+            "title": "Encyclopaedia Britannica's guitar entry."
+          }
+        }
+      ],
+      "image": {
+        "src": "img/violin.avif",
+        "alt": "String family instruments featuring acoustic violin"
+      }
+    }
+  ]
+}
