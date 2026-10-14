@@ -433,25 +433,33 @@ function renderDetailView(container, family, instrument, onBackToInstruments, on
         factsBox.appendChild(listElement);
     }
 
-    if (instrument.externalResource && instrument.externalResource.url) {
+    if (instrument.externalResources && instrument.externalResources.length > 0) {
         const profileHeading = document.createElement("h3");
-        profileHeading.textContent = "Instrument profile";
+        profileHeading.textContent = "Instrument Profile";
         factsBox.appendChild(profileHeading);
 
-        const citationParagraph = document.createElement("p");
-        citationParagraph.textContent = "Further reading is available from ";
+        const introParagraph = document.createElement("p");
+        introParagraph.textContent = "Further reading is available from:";
+        factsBox.appendChild(introParagraph);
 
-        const citeElement = document.createElement("cite");
-        const linkElement = document.createElement("a");
-        linkElement.href = instrument.externalResource.url;
-        linkElement.target = "_blank";
-        linkElement.rel = "noopener noreferrer";
-        linkElement.textContent = instrument.externalResource.title || "Encyclopaedia Britannica";
+        const resourcesList = document.createElement("ul");
 
-        citeElement.appendChild(linkElement);
-        citationParagraph.appendChild(citeElement);
-        citationParagraph.appendChild(document.createTextNode("."));
-        factsBox.appendChild(citationParagraph);
+        instrument.externalResources.forEach((resource) => {
+            const listItem = document.createElement("li");
+
+            const citeElement = document.createElement("cite");
+            const linkElement = document.createElement("a");
+            linkElement.href = resource.url;
+            linkElement.target = "_blank";
+            linkElement.rel = "noopener noreferrer";
+            linkElement.textContent = resource.title;
+
+            citeElement.appendChild(linkElement);
+            listItem.appendChild(citeElement);
+            resourcesList.appendChild(listItem);
+        });
+
+        factsBox.appendChild(resourcesList);
     }
 
     const actionsContainer = document.createElement("div");

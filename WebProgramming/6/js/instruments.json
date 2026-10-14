@@ -25,11 +25,11 @@
             "Key to the performance of the snare drum are rudiments, which are standard patterns of strokes that form the basis of snare drum technique. These include rolls, flams, drags, and paradiddles, among others. Mastery of these rudiments allows drummers to execute complex rhythms and textures with precision and musicality."
           ],
           "history": [
-            "Before the snare drum, snares originated in ancient Egypt, which is assumed to have been placed on instruments like the tambourine. The snare drum as we know it today developed from European tabor drums used in military and civic music. Originaly, snares were placed on the upper head of the tabor drum, or sometimes on both heads. Larger versions of the tabor drum became the foundation for the snare drum, when two sticks began to be used, with snares being placed on the bottom head.",
-            "At this point, they tended to be suspended with a strap or rope, placed on the players left side (due to the rifle being on the right side), and spread across Europe. This left-sided placement is still common, and is the reason for the \"traditional\" grip, where the left hand holds the stick differently than the right hand.",
-            "Drummers used repeating patterns to support marching and to communicate signals. Over time, the instrument moved into concert bands and orchestras, where composers used it for a trademark military noise, suspense, dance rhythms, and precise articulation.",
-            "In the twentieth century, the snare became one of the central voices of the drum set. Jazz, rock, funk, marching percussion, film scoring, and studio production each developed different approaches to its tuning and touch.",
-            "Materials used to make snare drums have changed over time. Early snares were made from gut, horsehair, or metal wire. In the 19th century, drums became shallow, with a brass shell and rods. The throw-off mechanism was developed in the 20th century, allowing players to lift the snares away from the head."
+            "The snare drum as we know it today developed from the medieval tabor, a simple cylindrical drum brought to Europe via Moorish influence and returning crusaders. Originally, a single gut snare was tensioned across the upper batter head of the tabor drum. Played alongside a three-holed pipe by a single musician, the tabor provided rhythmic backing for folk dances and civic events.",
+            "By the 15th and 16th centuries, Swiss mercenary regiments adopted a much larger version of the tabor, playing it with two heavy sticks. These military side drums were suspended on a sling over the player's right shoulder, resting on the left hip to avoid interfering with their sword or musket. This angled left-sided placement necessitated the \"traditional\" grip, where the left hand holds the stick underhand while the right holds it overhand.",
+            "Drummers used repeating cadences to coordinate marching troops and broadcast battlefield signals. Over time, the instrument moved into concert bands and orchestras, where composers used it to invoke military precision, build suspense, and drive dance rhythms.",
+            "In the 20th century, the snare became the central conversational voice of the drum set. Jazz, rock, funk, marching percussion, and studio production each developed highly specific approaches to its tuning and touch.",
+            "Materials evolved significantly alongside musical demands. Early snares of animal gut gave way to coiled wire and cable. In the late 19th and early 20th centuries, manufacturers introduced shallow brass and steel shells, individual tension rods, and the crucial throw-off mechanism, transforming the snare into a highly tunable, precision instrument."
           ],
           "image": {
             "src": "img/snare.jpg",
@@ -50,10 +50,16 @@
               "description": "Alternating strokes create a sustained texture instead of a single isolated hit."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/snare-drum",
-            "title": "Encyclopaedia Britannica's snare drum page."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/snare-drum",
+              "title": "Encyclopaedia Britannica: Snare drum"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Snare_drum",
+              "title": "Wikipedia: Snare drum"
+            }
+          ]
         },
         {
           "id": "bongos",
@@ -70,11 +76,11 @@
             "Bongo technique depends on relaxed hands and clear contrast between strokes. A muted stroke keeps the head close to the fingers, while an open stroke lets the head ring. The player can also strike the shell or rim for additional variations."
           ],
           "history": [
-            "Bongos developed in eastern Cuba during the nineteenth century, specifically for Latin American dance music. They are closely associated with son cubano, a Cuban style that combines Spanish guitar-family instruments, African-derived percussion, and vocal traditions. Their history reflects African and European musical influences meeting in Cuban communities. In a son ensemble, the bongos interact with voices, guitar-family instruments, bass, and larger percussion instruments.",
-            "The instrument's name seems to have derived from the Bantu word \"ngoma,\" which means drum. Through evolution and similarity to another word mbongo, the name became \"bongo\". The instrument seems to have replaced the earlier drum called the boku, which was typically used in pairs and slung over the knee. The bongo's smaller size and higher pitch made it more suitable for the fast, syncopated rhythms of son music. However, other drums in the region can be attributed to the bongo's development (which are called the tahona).",
-            "Recordings and touring ensembles carried the bongo sound beyond Cuba. Players in jazz, salsa, popular music, and educational ensembles adapted its patterns while continuing to draw on the instrument's Cuban rhythmic identity. The 1920's were an interesting time for the bongo, as they were first played in the United States at this time, but were also banned in 1929 alongside other drums in Cuba. The bongo would spread over the course of time, especially in the 20th century, where it became a taple of Latin American music, like bachata, salsa, and merengue.",
-            "Here, Latin bands in the United States spread the bongo's sound across the country. New York City became a hub for Latin music, and the bongo was a key part of the sound. The instrument's portability and expressive range made it popular in both professional and amateur ensembles.",
-            "Traditional bongos use wooden shells and natural animal-skin heads. Modern instruments may use synthetic heads and hardware that makes tuning more stable. The shells are joined by a small bridge or connecting block, and the open bottoms allow the drum bodies to project directly toward the listener."
+            "Bongos developed in eastern Cuba during the late 19th century, specifically within the Afro-Cuban communities of Oriente province. They emerged alongside the son cubano, a foundational musical style that fused Spanish guitar-family instrumentation with African-derived rhythms and call-and-response vocal traditions. In a traditional son ensemble, the bongos provide rhythmic interplay, cutting through the texture to converse with the lead vocalist.",
+            "The instrument's name is rooted in the linguistic heritage of enslaved Africans brought to Cuba. It is widely believed to derive from Bantu words such as 'mgombo' or 'macongo.' The bongos likely replaced or evolved from earlier single drums like the bokú, a taller drum played over the knee, adapting into a smaller, paired design to accommodate the rapid, highly syncopated martillo patterns essential to son.",
+            "During the early 20th century, the bongo's popularity spread rapidly as son ensembles migrated to Havana and began recording. Despite facing social stigma and sporadic government censorship during the 1920s—when Afro-Cuban percussion was often suppressed by the Machado administration in an effort to Europeanize Cuban culture—the bongos became an undeniable staple of the national sound.",
+            "By the mid-20th century, touring ensembles and international recordings carried the bongo far beyond Cuba. As New York City became a melting pot for Latin music, the bongo proved essential to the development of mambo, salsa, and Latin jazz. Its bright projection and portability made it a fixture in jazz clubs and beatnik poetry readings alike.",
+            "Traditional bongos utilize solid wooden shells and natural rawhide heads. Modern manufacturing has introduced fiberglass shells, synthetic heads, and precision mechanical tuning lugs, though the fundamental design—two tapered shells joined by a wooden center block—remains completely unchanged."
           ],
           "image": {
             "src": "img/bongos.jpg",
@@ -95,10 +101,16 @@
               "description": "A commonly taught bongo pattern whose name means hammer in Spanish."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/bongo-drum",
-            "title": "Encyclopaedia Britannica's bongo drum entry"
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/bongo-drum",
+              "title": "Encyclopaedia Britannica: Bongo drum"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Bongo_drum",
+              "title": "Wikipedia: Bongo drum"
+            }
+          ]
         },
         {
           "id": "marimba",
@@ -116,11 +128,10 @@
             "The marimba can often be played by multiple performers, especially with larger, concert-sized instruments. In these cases, players may divide the keyboard range among themselves, allowing for complex arrangements and harmonies."
           ],
           "history": [
-            "The marimba has roots in African musical traditions, where similar instruments were made from wooden bars and gourds. It was brought to the Americas by enslaved Africans, and it evolved in Central America, particularly in Guatemala and Mexico. In these regions, the marimba became an important part of local music and culture, while also being adapted for concert performance. Here, the wooden bars were supported by a frame, or were hung at the player's waist.",
-            "Marimba traditions in Central America reflect the meeting of African, Indigenous, and European musical histories. In Guatemala, the marimba is closely connected with national and regional identity, and ensembles perform both community music and concert performance. The instrument should therefore be understood as more than a large wooden version of a xylophone.",
-            "The modern concert marimba arose in the United States in the early 20th century. Here, it became a tube-resonated instrument that sits at a lower octave than the xylophone.The resonators are graduated in length: longer tubes support lower notes and shorter tubes support higher notes. Some instruments include adjustable resonators to compensate for changes in room temperature and humidity.",
-            "Marimba music can combine melody, harmony, and rhythm. A single player may use two, four, or more mallets, changing grip and rebound to play chords and fast lines. The sound depends as much on the player's touch and spacing as on the instrument's pitch.",
-            "Marimba builders and performers continue to expand the instrument's breadth. Arrangements may feature regional dance styles, classical works, contemporary solo music, and chamber pieces. Its wide dynamic range lets a performer move from a bell-like melody to a dense, resonant chord within one phrase."
+            "The marimba traces its direct ancestry to the African balafon and similar instruments brought to the Americas by enslaved peoples during the transatlantic slave trade. In Central America, particularly across Guatemala and southern Mexico, these African designs merged with local Indigenous and European musical traditions. Early Latin American marimbas utilized gourds or bamboo for resonators, eventually adopting wooden boxes equipped with a vibrating membrane (charleo) to produce a distinct, buzzing sustain.",
+            "In Guatemala, the marimba became deeply interwoven with national identity. Traditional marimba ensembles, often featuring multiple players standing at a single massive instrument (marimba doble), became the rhythmic and harmonic center of community dances, civic events, and indigenous religious festivals.",
+            "During the late 19th and early 20th centuries, the instrument captured the attention of North American manufacturers. Companies like J.C. Deagan refined the instrument for the vaudeville and orchestral stage, replacing the buzzing wooden boxes with precisely tuned metal resonator tubes and arranging the keyboard chromatically like a piano. This adaptation created the smooth, mellow timbre recognized in the modern concert marimba.",
+            "Today, marimba music bridges diverse global traditions. A single soloist might utilize four to six mallets to perform complex polyphonic arrangements of Johann Sebastian Bach, contemporary minimalist compositions, or jazz improvisation. Its wide dynamic range allows a performer to transition seamlessly from a delicate, bell-like melody to a dense, thundering chord within a single phrase."
           ],
           "image": {
             "src": "img/marimba.jpg",
@@ -141,10 +152,16 @@
               "description": "Their hardness changes the balance between attack and warmth."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/marimba",
-            "title": "Encyclopaedia Britannica's marimba entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/marimba",
+              "title": "Encyclopaedia Britannica: Marimba"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Marimba",
+              "title": "Wikipedia: Marimba"
+            }
+          ]
         },
         {
           "id": "piano",
@@ -161,10 +178,10 @@
             "A pianist can alter volume and tone profoundly through touch and attack speed. The pedals provide additional control on most concert pianos. The right pedal lifts all dampers at once, allowing sympathetic resonance and sustain. The una corda (soft) and sostenuto pedals offer further variation by shifting the action or sustaining only specific notes."
           ],
           "history": [
-            "Bartolomeo Cristofori developed the early piano in Italy around the beginning of the eighteenth century. Its most important new idea was the ability to respond differently to soft and forceful playing. That dynamic control distinguished it from earlier keyboard instruments, like the harpsichord, whose volume was less directly shaped by the player's touch.",
-            "Over the next century, the instrument underwent significant design changes to accommodate demands for greater volume and a wider range. Improvements in steel strings, iron frames, and double-escapement action design helped the piano project over large orchestras and fill grand concert halls.",
-            "These manufacturing advancements also helped the piano become common in homes, schools, churches, and studios. It became an essential tool for composition and education, capable of expressing both complex harmonies and sweeping melodies simultaneously.",
-            "Composers and performers quickly made it central to classical music, and its influence only grew over time. Today, the piano remains a foundational voice across ragtime, jazz, popular songwriting, film music, and digital music production."
+            "Italian instrument maker Bartolomeo Cristofori invented the piano around 1700. Dissatisfied with the harpsichord's inability to express dynamic changes, Cristofori designed a highly complex hammer action that struck the strings rather than plucking them. He named his creation the \"gravicembalo col piano e forte\" (harpsichord with soft and loud), explicitly highlighting its revolutionary ability to respond to a player's touch.",
+            "Over the late 18th and 19th centuries, the instrument underwent significant mechanical evolution to meet the expanding harmonic and dynamic demands of composers like Ludwig van Beethoven and Franz Liszt. Improvements included the introduction of high-tension steel strings, massive cast-iron frames, and Sébastien Érard's double-escapement action, which allowed pianists to repeat notes with blistering speed.",
+            "These manufacturing advancements coincided with the Industrial Revolution, making pianos more durable and affordable. The piano rapidly became a centerpiece in middle-class homes, conservatories, and grand concert halls, functioning as the ultimate tool for both solitary composition and large-scale performance.",
+            "Today, the piano remains an unparalleled foundational instrument. Its immense range and polyphonic capabilities make it indispensable across classical concertos, ragtime, jazz improvisation, pop songwriting, and film scoring, maintaining its status as one of the most culturally significant instruments in global music."
           ],
           "image": {
             "src": "img/piano.jpg",
@@ -185,10 +202,16 @@
               "description": "Sustaining a note changes the space between sounds as much as it changes their length."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/piano",
-            "title": "Encyclopaedia Britannica's piano entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/piano",
+              "title": "Encyclopaedia Britannica: Piano"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Piano",
+              "title": "Wikipedia: Piano"
+            }
+          ]
         }
       ],
       "image": {
@@ -243,10 +266,16 @@
               "description": "Rapid tonguing techniques provide sharp, precise attacks that contrast with the flute's smooth sustain."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/flute-musical-instrument",
-            "title": "Encyclopaedia Britannica's flute entry"
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/flute-musical-instrument",
+              "title": "Encyclopaedia Britannica: Flute"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Flute",
+              "title": "Wikipedia: Flute"
+            }
+          ]
         },
         {
           "id": "saxophone",
@@ -287,10 +316,16 @@
               "description": "Players frequently use a rhythmic jaw motion to give sustained notes a singing, vocal-like quality."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/saxophone",
-            "title": "Encyclopaedia Britannica's saxophone entry"
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/saxophone",
+              "title": "Encyclopaedia Britannica: Saxophone"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Saxophone",
+              "title": "Wikipedia: Saxophone"
+            }
+          ]
         },
         {
           "id": "bassoon",
@@ -331,10 +366,16 @@
               "description": "In an ensemble, its warm tone can seamlessly merge with cellos or horns, adding subtle depth without overpowering other voices."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/bassoon",
-            "title": "Encyclopaedia Britannica's bassoon entry"
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/bassoon",
+              "title": "Encyclopaedia Britannica: Bassoon"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Bassoon",
+              "title": "Wikipedia: Bassoon"
+            }
+          ]
         },
         {
           "id": "clarinet",
@@ -375,10 +416,16 @@
               "description": "Modern keywork allows the player to execute rapid, liquid runs and arpeggios across the instrument's exceptionally wide range."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/clarinet",
-            "title": "Encyclopaedia Britannica's clarinet entry"
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/clarinet",
+              "title": "Encyclopaedia Britannica: Clarinet"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Clarinet",
+              "title": "Wikipedia: Clarinet"
+            }
+          ]
         }
       ],
       "image": {
@@ -434,10 +481,16 @@
               "description": "A rapid alternating articulation technique allowing fast, clean staccato passages and rhythmic flourishes."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/trumpet-musical-instrument",
-            "title": "Encyclopaedia Britannica's trumpet entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/trumpet-musical-instrument",
+              "title": "Encyclopaedia Britannica: Trumpet"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Trumpet",
+              "title": "Wikipedia: Trumpet"
+            }
+          ]
         },
         {
           "id": "trombone",
@@ -481,10 +534,16 @@
               "description": "An energetic, explosive accent where the player rapidly ascends through the harmonic series into a target note."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/trombone",
-            "title": "Encyclopaedia Britannica's trombone entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/trombone",
+              "title": "Encyclopaedia Britannica: Trombone"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Trombone",
+              "title": "Wikipedia: Trombone"
+            }
+          ]
         },
         {
           "id": "tuba",
@@ -528,10 +587,16 @@
               "description": "Clean, crisp staccato attacks in bass lines that propel musical tempo without muddying ensemble clarity."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/tuba",
-            "title": "Encyclopaedia Britannica's tuba entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/tuba",
+              "title": "Encyclopaedia Britannica: Tuba"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tuba",
+              "title": "Wikipedia: Tuba"
+            }
+          ]
         },
         {
           "id": "euphonium",
@@ -575,10 +640,16 @@
               "description": "In-tune, centered low notes in the pedal register that provide substantial acoustic weight without losing tonal focus."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/euphonium",
-            "title": "Encyclopaedia Britannica's euphonium entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/euphonium",
+              "title": "Encyclopaedia Britannica: Euphonium"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Euphonium",
+              "title": "Wikipedia: Euphonium"
+            }
+          ]
         }
       ],
       "image": {
@@ -634,10 +705,16 @@
               "description": "Plucking the string directly with the finger, generating a sharp, percussive resonance without the bow."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/violin",
-            "title": "Encyclopaedia Britannica's violin entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/violin",
+              "title": "Encyclopaedia Britannica: Violin"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Violin",
+              "title": "Wikipedia: Violin"
+            }
+          ]
         },
         {
           "id": "harp",
@@ -681,10 +758,16 @@
               "description": "Plucking close to the soundboard to generate a tight, dry, and nasal acoustic timbre."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/harp",
-            "title": "Encyclopaedia Britannica's harp entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/harp",
+              "title": "Encyclopaedia Britannica: Harp"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Harp",
+              "title": "Wikipedia: Harp"
+            }
+          ]
         },
         {
           "id": "shamisen",
@@ -728,10 +811,16 @@
               "description": "Left-hand finger plucks and snap releases on the unfretted neck that add rapid ornamental rhythms to melodies."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/shamisen",
-            "title": "Encyclopaedia Britannica's shamisen entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/shamisen",
+              "title": "Encyclopaedia Britannica: Shamisen"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Shamisen",
+              "title": "Wikipedia: Shamisen"
+            }
+          ]
         },
         {
           "id": "guitar",
@@ -775,10 +864,16 @@
               "description": "Resting the heel of the picking hand lightly against the bridge saddles to create a tight, percussive chug."
             }
           ],
-          "externalResource": {
-            "url": "https://www.britannica.com/art/guitar",
-            "title": "Encyclopaedia Britannica's guitar entry."
-          }
+          "externalResources": [
+            {
+              "url": "https://www.britannica.com/art/guitar",
+              "title": "Encyclopaedia Britannica: Guitar"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Guitar",
+              "title": "Wikipedia: Guitar"
+            }
+          ]
         }
       ],
       "image": {
