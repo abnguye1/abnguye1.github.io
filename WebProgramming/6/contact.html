@@ -27,16 +27,13 @@
     <main id="main-content">
       <div class="page-shell">
         <p class="breadcrumb"><a href="index.html">Home</a> / Contact</p>
-        <h1>Contact Us</h1>
-        <p class="flavor-text">
-          Have an instrument we should feature in the interactive explorer, an archival audio source 
-          to recommend, or a historical correction to share? Send our editorial team a message below 
-          and we will follow up with you.
+        <h1>Contact Us!</h1>
+        <p class = "flavor-text">
+          Have an instrument we should feature, a source to recommend, or a
+          correction to share? Submit a message below and we'll get back to you
+          as soon as possible.
         </p>
-
         <form action="#submitted" method="post" aria-label="Contact submission form">
-          <fieldset>
-            <legend>Send Us a Message</legend>
 
             <label for="senderName">Your Name</label>
             <input id="senderName" name="name" type="text" required autocomplete="name" placeholder="e.g. Jane Doe">
@@ -51,11 +48,11 @@
               placeholder="e.g. jane@example.com"
             >
 
-            <label for="messageTopic">Inquiry Topic</label>
+            <label for="messageTopic">Message Type</label>
             <select id="messageTopic" name="topic">
-              <option value="suggest">Suggest an instrument or acoustic profile</option>
-              <option value="question">Ask an organological or music history question</option>
-              <option value="correction">Report an archival or factual correction</option>
+              <option value="suggest">Suggest an instrument</option>
+              <option value="question">Ask a question</option>
+              <option value="correction">Report an error</option>
               <option value="general">General feedback / Other</option>
             </select>
 
@@ -63,7 +60,6 @@
             <textarea id="messageBody" name="message" required placeholder="Write your message or suggestion here..."></textarea>
 
             <button class="button" type="submit">Submit Message</button>
-          </fieldset>
         </form>
       </div>
     </main>
