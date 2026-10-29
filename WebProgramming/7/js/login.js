@@ -5,11 +5,7 @@
  * then the user is returned to the page they were trying to reach.
  */
 
-import {
-    GoogleAuthProvider,
-    signInWithPopup,
-    getAdditionalUserInfo
-} from "https://www.gstatic.com/firebasejs/13.1.0/firebase-auth.js";
+import { GoogleAuthProvider, signInWithPopup, getAdditionalUserInfo } from "https://www.gstatic.com/firebasejs/13.1.0/firebase-auth.js";
 import { auth } from "./firebase-init.js";
 import { setBusy, showMessage, clearMessage, describeError } from "./ui.js";
 
