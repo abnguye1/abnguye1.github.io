@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Andrew Nguyen">
+    <meta name="description" content="Your Instrument History Explorer account details and password settings.">
+    <meta name="keywords" content="account, password, instrument history explorer">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="module" src="js/session.js"></script>
+    <script type="module" src="js/account.js"></script>
+    <title>Your Account | Instrument History Explorer</title>
+  </head>
+  <body id="top" class="auth-pending" data-protected>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html">Instrument History Explorer</a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="explorer.html">Explore</a>
+          <a href="concepts.html">Music Concepts</a>
+          <a href="contact.html">Contact</a>
+          <a href="login.html" class="nav-login" id="navAccount" aria-label="Log in with Google">Log In</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <div class="status-box auth-check" role="status">
+        <span class="spinner large" aria-hidden="true"></span>
+        <p>Checking your sign-in...</p>
+      </div>
+      <div class="page-shell">
+        <p class="breadcrumb"><a href="index.html">Home</a> / Account</p>
+        <h1>Your account</h1>
+        <p class="flavor-text">
+          You're logged in with Google. Your account details are below, along with
+          how to change your password. Use <strong>Log Out</strong> at the top of
+          any page when you're finished.
+        </p>
+
+        <section class="auth-panel" aria-labelledby="details-heading">
+          <h2 id="details-heading">Account details</h2>
+          <dl class="account-details">
+            <dt>Name</dt>
+            <dd id="accountName">Loading...</dd>
+            <dt>Email</dt>
+            <dd id="accountEmail">Loading...</dd>
+            <dt>Sign-in method</dt>
+            <dd>Google</dd>
+          </dl>
+        </section>
+
+        <section class="auth-panel" aria-labelledby="password-heading">
+          <h2 id="password-heading">Password</h2>
+          <p>Need a new password? Choose the button below to see how.</p>
+          <button class="button" type="button" id="changePasswordButton" aria-expanded="false" aria-controls="passwordInfo">
+            Change Password
+          </button>
+          <div id="passwordInfo" class="form-message info" hidden>
+            <p>
+              This account uses Google Sign-In. You can manage your password and
+              security settings directly through your Google Account.
+            </p>
+            <a href="https://myaccount.google.com/security" target="_blank" rel="noopener noreferrer">
+              Open Google Account security settings (opens in a new tab)
+            </a>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <p class="return-top"><a href="#top">Return to top</a></p>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>
+          <strong>Instrument History Explorer</strong> · Andrew Nguyen · 2026
+        </p>
+        <p>
+          Images: 
+          <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a>. 
+          Data sources:
+          <a href="https://music.si.edu/" target="_blank" rel="noopener noreferrer">Smithsonian Music</a>
+          and
+          <a href="https://www.britannica.com/art/musical-instrument" target="_blank" rel="noopener noreferrer">Encyclopaedia Britannica</a>.
+        </p>
+      </div>
+    </footer>
+    
+  </body>
+</html>
+
